@@ -182,6 +182,6 @@ with(this){return _c('div',{attrs:{"id":"workflow"}},[_c('h2',{attrs:{"id":"tp-w
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/appendixD-help.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Apdx D: Getting Help")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/appendixF-teamworkIssues.html"}},[_c('span',[_v("Apdx F: Handling Team Issues "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 29 Jul 2024, 0:48:44 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 29 Jul 2024, 14:24:37 GMT+8]")])])])}
 }];
   

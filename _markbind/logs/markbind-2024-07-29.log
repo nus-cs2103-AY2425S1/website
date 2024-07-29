@@ -253,3 +253,248 @@
 2024-07-28T16:45:13.051Z - info: No pages needed to be rebuilt
 2024-07-28T16:48:32.414Z - info: Website generation started at 12:48:20 am
 2024-07-28T16:48:39.461Z - info: Building assets...
+2024-07-28T16:48:44.736Z - info: Assets built
+2024-07-28T16:48:44.736Z - info: Generating pages...
+2024-07-28T16:49:03.051Z - debug:  
+2024-07-28T16:49:03.054Z - debug:  
+2024-07-28T16:49:03.060Z - debug:  
+2024-07-28T16:49:03.064Z - debug:  
+2024-07-28T16:49:03.508Z - debug:  
+2024-07-28T16:49:03.508Z - debug:  
+2024-07-28T16:49:03.509Z - debug:  
+2024-07-28T16:49:03.509Z - debug:  
+2024-07-28T16:49:03.510Z - debug:  
+2024-07-28T16:49:03.510Z - debug:  
+2024-07-28T16:49:03.511Z - debug:  
+2024-07-28T16:49:03.511Z - debug:  
+2024-07-28T16:49:03.511Z - debug:  
+2024-07-28T16:49:03.511Z - debug:  
+2024-07-28T16:49:03.512Z - debug:  
+2024-07-28T16:49:06.552Z - debug:  
+2024-07-28T16:49:06.552Z - debug:  
+2024-07-28T16:50:21.270Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-28T16:50:46.292Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-28T16:50:46.292Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-28T16:51:11.761Z - debug:  
+2024-07-28T16:51:28.060Z - debug:  
+2024-07-28T16:51:28.197Z - debug:  
+2024-07-28T16:51:33.083Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-28T16:51:33.084Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-28T16:51:36.740Z - info: Pages built
+2024-07-28T16:51:37.808Z - info: Site data built
+2024-07-28T16:51:37.809Z - info: Website generation complete! Total build time: 197.385s
+2024-07-28T16:51:37.809Z - info: Build success!
+2024-07-28T16:54:01.459Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-07-29T05:57:12.214Z - info: Website generation (lazy) started at 1:57:06 pm
+2024-07-29T05:57:21.619Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-29T05:57:21.621Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-07-29T05:57:21.683Z - info: Building assets...
+2024-07-29T05:57:59.019Z - info: Assets built
+2024-07-29T05:57:59.020Z - info: Generating landing page...
+2024-07-29T05:57:59.672Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-07-29T05:58:00.745Z - info: Site data built
+2024-07-29T05:58:00.746Z - info: Website generation (lazy) complete! Total build time: 54.288s
+2024-07-29T05:58:01.134Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-07-29T05:58:01.134Z - info: Press CTRL+C to stop ...
+2024-07-29T06:05:28.919Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings as some of its dependencies were changed since the last visit
+2024-07-29T06:05:29.464Z - info: Site data built
+2024-07-29T06:05:29.464Z - info: Lazy website regeneration complete! Total build time: 0.547s
+2024-07-29T06:07:57.357Z - info: [2:07:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:07:57.358Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:07:57.358Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:07:57.359Z - info: 1. admin/courseBriefings
+2024-07-29T06:07:58.366Z - info: Rebuilding 1 pages
+2024-07-29T06:07:59.231Z - info: Site data built
+2024-07-29T06:07:59.232Z - info: Pages rebuilt
+2024-07-29T06:07:59.232Z - info: Website regeneration complete! Total build time: 0.868s
+2024-07-29T06:08:20.354Z - info: [2:08:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-07-29T06:08:20.355Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:08:20.355Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:08:20.355Z - info: 1. admin/courseBriefings
+2024-07-29T06:08:21.374Z - info: Rebuilding 1 pages
+2024-07-29T06:08:22.121Z - info: Site data built
+2024-07-29T06:08:22.122Z - info: Pages rebuilt
+2024-07-29T06:08:22.123Z - info: Website regeneration complete! Total build time: 0.75s
+2024-07-29T06:08:31.091Z - info: [2:08:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-07-29T06:08:31.092Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:08:31.092Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:08:31.093Z - info: 1. admin/courseBriefings
+2024-07-29T06:08:32.111Z - info: Rebuilding 1 pages
+2024-07-29T06:08:32.471Z - info: Site data built
+2024-07-29T06:08:32.471Z - info: Pages rebuilt
+2024-07-29T06:08:32.472Z - info: Website regeneration complete! Total build time: 0.362s
+2024-07-29T06:09:36.347Z - info: [2:09:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:09:36.348Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:09:36.348Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:09:36.349Z - info: 1. admin/courseBriefings
+2024-07-29T06:09:37.351Z - info: Rebuilding 1 pages
+2024-07-29T06:09:37.751Z - info: Site data built
+2024-07-29T06:09:37.751Z - info: Pages rebuilt
+2024-07-29T06:09:37.752Z - info: Website regeneration complete! Total build time: 0.401s
+2024-07-29T06:09:47.450Z - info: [2:09:47 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-07-29T06:09:47.450Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:09:47.451Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:09:47.451Z - info: 1. admin/courseBriefings
+2024-07-29T06:09:48.462Z - info: Rebuilding 1 pages
+2024-07-29T06:09:48.999Z - info: Site data built
+2024-07-29T06:09:49.000Z - info: Pages rebuilt
+2024-07-29T06:09:49.000Z - info: Website regeneration complete! Total build time: 0.541s
+2024-07-29T06:10:31.147Z - info: [2:10:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:10:31.147Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:10:31.148Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:10:31.148Z - info: 1. admin/courseBriefings
+2024-07-29T06:10:32.164Z - info: Rebuilding 1 pages
+2024-07-29T06:10:32.766Z - info: Site data built
+2024-07-29T06:10:32.766Z - info: Pages rebuilt
+2024-07-29T06:10:32.766Z - info: Website regeneration complete! Total build time: 0.603s
+2024-07-29T06:10:42.781Z - info: [2:10:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:10:42.781Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:10:42.781Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:10:42.782Z - info: 1. admin/courseBriefings
+2024-07-29T06:10:43.788Z - info: Rebuilding 1 pages
+2024-07-29T06:10:44.183Z - info: Site data built
+2024-07-29T06:10:44.184Z - info: Pages rebuilt
+2024-07-29T06:10:44.184Z - info: Website regeneration complete! Total build time: 0.397s
+2024-07-29T06:11:11.915Z - info: [2:11:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:11:11.915Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:11:11.915Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:11:11.916Z - info: 1. admin/courseBriefings
+2024-07-29T06:11:12.923Z - info: Rebuilding 1 pages
+2024-07-29T06:11:13.330Z - info: Site data built
+2024-07-29T06:11:13.330Z - info: Pages rebuilt
+2024-07-29T06:11:13.331Z - info: Website regeneration complete! Total build time: 0.408s
+2024-07-29T06:11:18.974Z - info: [2:11:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:11:18.974Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:11:18.975Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:11:18.975Z - info: 1. admin/courseBriefings
+2024-07-29T06:11:19.977Z - info: Rebuilding 1 pages
+2024-07-29T06:11:20.303Z - info: Site data built
+2024-07-29T06:11:20.303Z - info: Pages rebuilt
+2024-07-29T06:11:20.303Z - info: Website regeneration complete! Total build time: 0.327s
+2024-07-29T06:11:31.817Z - info: [2:11:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:11:31.817Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:11:31.818Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:11:31.818Z - info: 1. admin/courseBriefings
+2024-07-29T06:11:32.825Z - info: Rebuilding 1 pages
+2024-07-29T06:11:33.197Z - info: Site data built
+2024-07-29T06:11:33.197Z - info: Pages rebuilt
+2024-07-29T06:11:33.198Z - info: Website regeneration complete! Total build time: 0.373s
+2024-07-29T06:16:26.042Z - info: [2:16:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:16:26.043Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:16:26.043Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:16:26.044Z - info: 1. admin/courseBriefings
+2024-07-29T06:16:27.055Z - info: Rebuilding 1 pages
+2024-07-29T06:16:27.989Z - info: Site data built
+2024-07-29T06:16:27.990Z - info: Pages rebuilt
+2024-07-29T06:16:27.991Z - info: Website regeneration complete! Total build time: 0.937s
+2024-07-29T06:16:57.385Z - info: [2:16:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-07-29T06:16:57.385Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:16:57.385Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:16:57.385Z - info: 1. admin/courseBriefings
+2024-07-29T06:16:58.402Z - info: Rebuilding 1 pages
+2024-07-29T06:16:58.785Z - info: Site data built
+2024-07-29T06:16:58.785Z - info: Pages rebuilt
+2024-07-29T06:16:58.786Z - info: Website regeneration complete! Total build time: 0.384s
+2024-07-29T06:17:23.178Z - info: [2:17:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:17:23.178Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:17:23.178Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:17:23.179Z - info: 1. admin/courseBriefings
+2024-07-29T06:17:24.184Z - info: Rebuilding 1 pages
+2024-07-29T06:17:24.689Z - info: Site data built
+2024-07-29T06:17:24.689Z - info: Pages rebuilt
+2024-07-29T06:17:24.690Z - info: Website regeneration complete! Total build time: 0.506s
+2024-07-29T06:17:36.425Z - info: [2:17:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:17:36.425Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:17:36.426Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:17:36.426Z - info: 1. admin/courseBriefings
+2024-07-29T06:17:37.433Z - info: Rebuilding 1 pages
+2024-07-29T06:17:37.793Z - info: Site data built
+2024-07-29T06:17:37.793Z - info: Pages rebuilt
+2024-07-29T06:17:37.793Z - info: Website regeneration complete! Total build time: 0.361s
+2024-07-29T06:17:50.104Z - info: [2:17:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:17:50.105Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:17:50.105Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:17:50.105Z - info: 1. admin/courseBriefings
+2024-07-29T06:17:51.114Z - info: Rebuilding 1 pages
+2024-07-29T06:17:51.412Z - info: Site data built
+2024-07-29T06:17:51.412Z - info: Pages rebuilt
+2024-07-29T06:17:51.412Z - info: Website regeneration complete! Total build time: 0.3s
+2024-07-29T06:18:12.871Z - info: [2:18:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:18:12.871Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:18:12.871Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:18:12.871Z - info: 1. admin/courseBriefings
+2024-07-29T06:18:13.878Z - info: Rebuilding 1 pages
+2024-07-29T06:18:14.285Z - info: Site data built
+2024-07-29T06:18:14.285Z - info: Pages rebuilt
+2024-07-29T06:18:14.285Z - info: Website regeneration complete! Total build time: 0.409s
+2024-07-29T06:18:24.957Z - info: [2:18:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:18:24.958Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:18:24.958Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:18:24.959Z - info: 1. admin/courseBriefings
+2024-07-29T06:18:25.966Z - info: Rebuilding 1 pages
+2024-07-29T06:18:26.310Z - info: Site data built
+2024-07-29T06:18:26.310Z - info: Pages rebuilt
+2024-07-29T06:18:26.311Z - info: Website regeneration complete! Total build time: 0.346s
+2024-07-29T06:18:33.851Z - info: [2:18:33 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:18:33.852Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:18:33.852Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:18:33.852Z - info: 1. admin/courseBriefings
+2024-07-29T06:18:34.863Z - info: Rebuilding 1 pages
+2024-07-29T06:18:35.206Z - info: Site data built
+2024-07-29T06:18:35.206Z - info: Pages rebuilt
+2024-07-29T06:18:35.206Z - info: Website regeneration complete! Total build time: 0.344s
+2024-07-29T06:19:58.310Z - info: [2:19:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-07-29T06:19:58.311Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:19:58.312Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:19:58.312Z - info: 1. admin/courseBriefings
+2024-07-29T06:19:59.324Z - info: Rebuilding 1 pages
+2024-07-29T06:19:59.957Z - info: Site data built
+2024-07-29T06:19:59.958Z - info: Pages rebuilt
+2024-07-29T06:19:59.958Z - info: Website regeneration complete! Total build time: 0.636s
+2024-07-29T06:21:15.812Z - info: [2:21:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-07-29T06:21:15.813Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:21:15.813Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:21:15.814Z - info: 1. admin/courseBriefings
+2024-07-29T06:21:16.827Z - info: Rebuilding 1 pages
+2024-07-29T06:21:17.174Z - info: Site data built
+2024-07-29T06:21:17.174Z - info: Pages rebuilt
+2024-07-29T06:21:17.175Z - info: Website regeneration complete! Total build time: 0.349s
+2024-07-29T06:21:52.961Z - info: [2:21:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-07-29T06:21:52.962Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:21:52.963Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:21:52.963Z - info: 1. admin/courseBriefings
+2024-07-29T06:21:53.980Z - info: Rebuilding 1 pages
+2024-07-29T06:21:54.424Z - info: Site data built
+2024-07-29T06:21:54.425Z - info: Pages rebuilt
+2024-07-29T06:21:54.426Z - info: Website regeneration complete! Total build time: 0.446s
+2024-07-29T06:22:10.701Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2024-07-29T06:22:11.917Z - info: Site data built
+2024-07-29T06:22:11.918Z - info: Lazy website regeneration complete! Total build time: 1.218s
+2024-07-29T06:22:29.017Z - info: [2:22:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:22:29.018Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:22:29.018Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:22:29.018Z - info: 1. schedule/week2/index
+2024-07-29T06:22:30.029Z - info: Rebuilding 1 pages
+2024-07-29T06:22:30.910Z - info: Site data built
+2024-07-29T06:22:30.910Z - info: Pages rebuilt
+2024-07-29T06:22:30.910Z - info: Website regeneration complete! Total build time: 0.882s
+2024-07-29T06:22:40.226Z - info: [2:22:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-29T06:22:40.226Z - info: Synchronizing opened pages list before reload
+2024-07-29T06:22:40.227Z - info: Current opened pages, from most-to-least recent:
+2024-07-29T06:22:40.227Z - info: 1. schedule/week2/index
+2024-07-29T06:22:41.238Z - info: Rebuilding 1 pages
+2024-07-29T06:22:41.958Z - info: Site data built
+2024-07-29T06:22:41.959Z - info: Pages rebuilt
+2024-07-29T06:22:41.959Z - info: Website regeneration complete! Total build time: 0.722s
+2024-07-29T06:24:18.066Z - info: Website generation started at 2:23:57 pm
+2024-07-29T06:24:30.363Z - info: Building assets...

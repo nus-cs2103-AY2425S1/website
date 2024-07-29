@@ -62,6 +62,6 @@ with(this){return _c('div',[_c('ul',[_c('li',[_v("If you have time to spare whil
 with(this){return _c('ul',[_c('li',[_v("Attend the first weekly briefing on Fri, Aug 16th ("),_c('mark',[_c('strong',[_v("compulsory")])]),_v(").")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 29 Jul 2024, 0:48:44 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 29 Jul 2024, 14:24:37 GMT+8]")])])])}
 }];
   
