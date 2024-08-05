@@ -71,6 +71,6 @@ with(this){return _c('li',[_c('strong',[_v("Wrap up the milestone")]),_v(" on Gi
 with(this){return _c('div',[_c('div',{staticClass:"border border-success pt-2 ps-2 pe-1 border-top-0 rounded-bottom",staticStyle:{"background-color":"#e6fff2"}},[_c('h4',{attrs:{"id":"end-of-tp-week-9"}},[_c('strong',[_c('strong',[_v("End of tP Week 9")])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#end-of-tp-week-9","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("-- [More details to be added] --")]),_v(" "),_c('p',[_v("Were you able to deliver on time?")]),_v(" "),_c('p',[_v("How do initial effort estimations compare to actual effort?")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Thu, 1 Aug 2024, 18:48:22 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 5 Aug 2024, 20:44:08 GMT+8]")])])])}
 }];
   

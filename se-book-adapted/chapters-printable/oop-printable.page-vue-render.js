@@ -212,10 +212,10 @@ with(this){return _c('p',[_c('strong',[_v("A superclass is said to be "),_c('em'
 with(this){return _c('p',[_c('strong',[_v("Applying inheritance on a group of similar classes can result in the common parts among classes being extracted into more general classes.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Inheritance implies the derived class can be considered as a "),_c('em',[_v("sub-type")]),_v(" of the base class (and the base class is a "),_c('em',[_v("super-type")]),_v(" of the derived class), resulting in an "),_c('em',[_v("is a")]),_v(" relationship.")])])}
+with(this){return _c('p',[_c('strong',[_v("Inheritance implies the derived class can be considered as a "),_c('em',[_v("subtype")]),_v(" of the base class (and the base class is a "),_c('em',[_v("super-type")]),_v(" of the derived class), resulting in an "),_c('em',[_v("is a")]),_v(" relationship.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" Inheritance does not necessarily mean a sub-type relationship exists. However, the two often go hand-in-hand. For simplicity, at this point let us assume inheritance implies a sub-type relationship.")])])}
+with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" Inheritance does not necessarily mean a subtype relationship exists. However, the two often go hand-in-hand. For simplicity, at this point let us assume inheritance implies a subtype relationship.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Inheritance relationships through a chain of classes can result in inheritance "),_c('em',[_v("hierarchies")]),_v(" (aka inheritance "),_c('em',[_v("trees")]),_v(").")])])}
@@ -287,6 +287,6 @@ with(this){return _c('div',[_c('h2',{attrs:{"id":"more"}},[_c('span',[_v("More")
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("What is the difference between a Class, an Abstract Class, and an Interface?")])]),_v(" "),_c('ul',[_c('li',[_v("An interface is a behavior specification with no implementation.")]),_v(" "),_c('li',[_v("A class is a behavior specification + implementation.")]),_v(" "),_c('li',[_v("An abstract class is a behavior specification + a possibly incomplete implementation.")])]),_v(" "),_c('p',[_c('strong',[_v("How does "),_c('em',[_v("overriding")]),_v(" differ from "),_c('em',[_v("overloading")]),_v("?")])]),_v(" "),_c('p',[_v("Overloading is used to indicate that multiple operations do similar things but take different parameters. Overloaded methods have the same method name but different method signatures and possibly different return types.")]),_v(" "),_c('p',[_v("Overriding is when a sub-class redefines an operation using the same method name and the same type signature. Overridden methods have the same name, same method signature, and same return type.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Thu, 1 Aug 2024, 18:48:22 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 5 Aug 2024, 20:44:08 GMT+8]")])])])}
 }];
   
