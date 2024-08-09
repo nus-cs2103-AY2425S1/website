@@ -1,0 +1,34 @@
+2024-08-09T16:00:02.341Z - info: [12:00:02 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2024-08-09T16:00:02.355Z - info: Synchronizing opened pages list before reload
+2024-08-09T16:00:02.355Z - info: Current opened pages, from most-to-least recent:
+2024-08-09T16:00:02.355Z - info: 1. admin/instructors
+2024-08-09T16:00:03.366Z - info: Rebuilding 1 pages
+2024-08-09T16:00:03.657Z - info: Site data built
+2024-08-09T16:00:03.658Z - info: Pages rebuilt
+2024-08-09T16:00:03.658Z - info: Website regeneration complete! Total build time: 0.293s
+2024-08-09T16:00:43.607Z - info: [12:00:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2024-08-09T16:00:43.607Z - info: Synchronizing opened pages list before reload
+2024-08-09T16:00:43.607Z - info: Current opened pages, from most-to-least recent:
+2024-08-09T16:00:43.608Z - info: 1. admin/instructors
+2024-08-09T16:00:44.620Z - info: Rebuilding 1 pages
+2024-08-09T16:00:44.996Z - info: Site data built
+2024-08-09T16:00:44.996Z - info: Pages rebuilt
+2024-08-09T16:00:44.996Z - info: Website regeneration complete! Total build time: 0.377s
+2024-08-09T16:01:24.519Z - info: [12:01:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2024-08-09T16:01:24.520Z - info: Synchronizing opened pages list before reload
+2024-08-09T16:01:24.520Z - info: Current opened pages, from most-to-least recent:
+2024-08-09T16:01:24.520Z - info: 1. admin/instructors
+2024-08-09T16:01:25.536Z - info: Rebuilding 1 pages
+2024-08-09T16:01:25.887Z - info: Site data built
+2024-08-09T16:01:25.887Z - info: Pages rebuilt
+2024-08-09T16:01:25.887Z - info: Website regeneration complete! Total build time: 0.352s
+2024-08-09T16:25:54.485Z - info: [12:25:54 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2024-08-09T16:25:54.486Z - info: Synchronizing opened pages list before reload
+2024-08-09T16:25:54.486Z - info: Current opened pages, from most-to-least recent:
+2024-08-09T16:25:54.486Z - info: 1. admin/instructors
+2024-08-09T16:25:55.496Z - info: Rebuilding 1 pages
+2024-08-09T16:25:55.917Z - info: Site data built
+2024-08-09T16:25:55.917Z - info: Pages rebuilt
+2024-08-09T16:25:55.917Z - info: Website regeneration complete! Total build time: 0.422s
+2024-08-09T16:28:20.515Z - info: Website generation started at 12:28:06 am
+2024-08-09T16:28:28.371Z - info: Building assets...
