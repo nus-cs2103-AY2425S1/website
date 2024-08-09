@@ -1,0 +1,37 @@
+2024-08-09T05:16:00.048Z - info: Website generation (lazy) started at 1:15:54 pm
+2024-08-09T05:16:09.340Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-09T05:16:09.341Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-08-09T05:16:09.400Z - info: Building assets...
+2024-08-09T05:16:47.547Z - info: Assets built
+2024-08-09T05:16:47.548Z - info: Generating landing page...
+2024-08-09T05:16:50.028Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-09T05:16:51.157Z - info: Site data built
+2024-08-09T05:16:51.157Z - info: Website generation (lazy) complete! Total build time: 56.702s
+2024-08-09T05:16:51.626Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-09T05:16:51.627Z - info: Press CTRL+C to stop ...
+2024-08-09T05:45:48.149Z - info: Website generation (lazy) started at 1:45:35 pm
+2024-08-09T05:45:57.350Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-09T05:45:57.352Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-08-09T05:45:57.412Z - info: Building assets...
+2024-08-09T05:46:39.105Z - info: Assets built
+2024-08-09T05:46:39.106Z - info: Generating landing page...
+2024-08-09T05:46:41.172Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-09T05:46:42.577Z - info: Site data built
+2024-08-09T05:46:42.577Z - info: Website generation (lazy) complete! Total build time: 66.795s
+2024-08-09T05:46:42.662Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-09T05:46:42.662Z - info: Press CTRL+C to stop ...
+2024-08-09T05:54:39.830Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials as some of its dependencies were changed since the last visit
+2024-08-09T05:54:40.402Z - info: Site data built
+2024-08-09T05:54:40.403Z - info: Lazy website regeneration complete! Total build time: 0.572s
+2024-08-09T05:55:39.361Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2024-08-09T05:55:43.133Z - debug:  
+2024-08-09T05:55:43.278Z - info: Site data built
+2024-08-09T05:55:43.278Z - info: Lazy website regeneration complete! Total build time: 3.918s
+2024-08-09T05:55:58.703Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2024-08-09T05:55:58.956Z - info: Site data built
+2024-08-09T05:55:58.956Z - info: Lazy website regeneration complete! Total build time: 0.254s
+2024-08-09T05:56:01.803Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite as some of its dependencies were changed since the last visit
+2024-08-09T05:56:02.133Z - info: Site data built
+2024-08-09T05:56:02.133Z - info: Lazy website regeneration complete! Total build time: 0.331s
+2024-08-09T06:00:03.850Z - info: Website generation started at 1:59:50 pm
+2024-08-09T06:00:12.683Z - info: Building assets...

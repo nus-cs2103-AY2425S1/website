@@ -20,10 +20,10 @@ with(this){return _c('a',{attrs:{"href":"/website/schedule/index.html"}},[_c('em
 with(this){return _c('p',[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" More details for the upcoming weeks will be added as the weeks progress. In general, "),_c('mark',[_v("information given for more than 1 week into the future should be treated as "),_c('em',[_v("tentative")])]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{staticClass:"text-white bg-dark p-2",attrs:{"id":"browser-compatibility"}},[_v("Browser compatibility"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#browser-compatibility","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("Most of this will work on most mainstream Browsers, although some pages might not work well in small-screen devices.")])])}
+with(this){return _c('div',[_c('h3',{staticClass:"text-white bg-secondary p-2",attrs:{"id":"browser-compatibility"}},[_v("Browser compatibility"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#browser-compatibility","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("Most of this will work on most mainstream Browsers, although some pages might not work well in small-screen devices.")])])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{staticClass:"text-white bg-dark p-2",attrs:{"id":"information-layers"}},[_v("Information layers"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#information-layers","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h3',{staticClass:"text-white bg-secondary p-2",attrs:{"id":"information-layers"}},[_v("Information layers"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#information-layers","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("We try to "),_c('em',[_v("layer")]),_v(" information so that readers can decide to omit less important layers if they wish to. Some 'layering' techniques used are explained below:")])}
@@ -41,7 +41,7 @@ with(this){return _c('p',[_c('strong',[_c('span',{staticClass:"fas fa-layer-grou
 with(this){return _c('p',[_c('strong',[_c('span',{staticClass:"fas fa-layer-group",attrs:{"aria-hidden":"true"}}),_v(" the "),_c('mark',[_c('em',[_v("topic levels")]),_v(" system")]),_v(" indicates the progression of contents")]),_v(" from basic/relevant topics to advanced/less-relevant topics. Open the panel below to see more details of that system.")])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{staticClass:"text-white bg-dark p-2",attrs:{"id":"conventions-used"}},[_v("Conventions used"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#conventions-used","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h3',{staticClass:"text-white bg-secondary p-2",attrs:{"id":"conventions-used"}},[_v("Conventions used"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#conventions-used","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"shorthand-headings"}},[_v("Shorthand headings"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#shorthand-headings","onclick":"event.stopPropagation()"}})])}
@@ -122,22 +122,22 @@ with(this){return _c('span',[_c('span',{staticClass:"glyphicon glyphicon-ok-sign
 with(this){return _c('div',{staticClass:"indented"},[_c('p',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-check",attrs:{"aria-hidden":"true"}})]),_v(" : tasks to do"),_c('br'),_v(" "),_c('span',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}})]),_v(" : lecture/briefing"),_c('br'),_v(" "),_c('span',[_c('span',{staticClass:"fas fa-chalkboard-teacher",attrs:{"aria-hidden":"true"}})]),_v(" : tutorial"),_c('br'),_v(" "),_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}})]),_v(" : deadline"),_c('br')])])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{staticClass:"text-white bg-dark p-2",attrs:{"id":"searching-for-keywords"}},[_v("Searching for keywords"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#searching-for-keywords","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h3',{staticClass:"text-white bg-secondary p-2",attrs:{"id":"searching-for-keywords"}},[_v("Searching for keywords"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#searching-for-keywords","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Use the search box in the top navigation bar to search for keywords in the website pages. If you cannot find the content related to a keyword, let us know by posting "),_c('a',{attrs:{"href":"https://github.com/nus-cs2103-AY2425S1/forum/issues"}},[_v("in the forum")]),_v(" so that we can add the missing keyword to our search index.")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{staticClass:"text-white bg-dark p-2",attrs:{"id":"saving-as-pdf-files"}},[_v("Saving as PDF files"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#saving-as-pdf-files","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("Follow "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/savingPdf.html"}},[_v("this guide @SE-EDU/guides")]),_v(".")])])}
+with(this){return _c('div',[_c('h3',{staticClass:"text-white bg-secondary p-2",attrs:{"id":"saving-as-pdf-files"}},[_v("Saving as PDF files"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#saving-as-pdf-files","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("Follow "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/savingPdf.html"}},[_v("this guide @SE-EDU/guides")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{staticClass:"text-white bg-dark p-2",attrs:{"id":"printing-textbook-content"}},[_v("Printing Textbook Content"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#printing-textbook-content","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h3',{staticClass:"text-white bg-secondary p-2",attrs:{"id":"printing-textbook-content"}},[_v("Printing Textbook Content"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#printing-textbook-content","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("In addition, printer-friendly version "),_c('span',{staticClass:"dimmed"},[_v("(indicated by "),_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" icon)")]),_v(" have been provided for each chapter and the whole book. You can use them for saving as pdf files or printing.")])}
 },function anonymous(
 ) {
-with(this){return _c('h3',{staticClass:"text-white bg-dark p-2",attrs:{"id":"making-this-website-better"}},[_v("Making this Website Better"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#making-this-website-better","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h3',{staticClass:"text-white bg-secondary p-2",attrs:{"id":"making-this-website-better"}},[_v("Making this Website Better"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#making-this-website-better","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("This website was generated using the "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind")]),_v(" software developed at NUS. "),_c('strong',[_v("We welcome bug reports, suggestions, and contributions")]),_v(", to be submitted "),_c('a',{attrs:{"href":"https://github.com/nus-cs2103-AY2425S1/forum/issues"}},[_v("in the forum")]),_v(".")])}
@@ -146,6 +146,6 @@ with(this){return _c('p',[_v("This website was generated using the "),_c('a',{at
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/courseOverview.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Course Overview")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/courseExpectations.html"}},[_c('span',[_v("Course Expectations "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 7 Aug 2024, 17:04:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Fri, 9 Aug 2024, 14:00:18 GMT+8]")])])])}
 }];
   
