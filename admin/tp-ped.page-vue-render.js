@@ -20,7 +20,7 @@ with(this){return _c('h3',{attrs:{"id":"tp-practical-exam-dry-run-pe-d"}},[_c('d
 with(this){return _c('h4',{attrs:{"id":"pe-d-overview"}},[_c('span',{staticClass:"badge bg-primary"},[_v("PE-D")]),_v(" "),_c('span',{staticClass:"text-primary"},[_v("Overview")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#pe-d-overview","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("When, where")]),_v(": uses a 40-minutes slot at the start of week 11 weekly briefing slot.\nIt will be conducted via Zoom. If you can't find another suitable location to join the Zoom meeting, you may do so from the lecture venue.")])}
+with(this){return _c('p',[_c('strong',[_v("When, where")]),_v(": uses a 40-minutes slot at the start of week 12 (Fri, Nov 8th 1600) lecture slot.\nIt will be conducted via Zoom. If you can't find another suitable location to join the Zoom meeting, you may do so from the lecture venue.")])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("You can earn "),_c('mark',[_v("up to 2 marks")]),_v(" (in your final tP score) for your performance in the PE-D."),_c('br'),_v("\nGraded "),_c('mark',[_v("based on the usefulness and the quality of your bug reports")]),_v(", as evaluated by the receiving team.")]),_v(" "),_c('li',[_v("PE dry run is a way for you to practice for the actual PE.")]),_v(" "),_c('li',[_v("Taking part in the PE dry run will earn you participation points.")]),_v(" "),_c('li',[_v("There is "),_c('mark',[_v("no penalty for bugs reported")]),_v(" in your product. Every bug you find is a win-win for you and the team whose product you are testing.")])])}
@@ -80,6 +80,6 @@ with(this){return _c('li',[_c('strong',[_v("If a bug report is simply a feature 
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-deliverables.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP: Deliverables")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-pe.html"}},[_c('span',[_v("tP: Practical Exam "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 0:28:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 17:33:12 GMT+8]")])])])}
 }];
   
