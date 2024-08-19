@@ -130,3 +130,45 @@ Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
 2024-08-18T16:26:02.592Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
 2024-08-19T03:48:18.089Z - info: Website generation started at 11:48:09 am
 2024-08-19T03:48:28.223Z - info: Building assets...
+2024-08-19T03:48:35.280Z - info: Assets built
+2024-08-19T03:48:35.281Z - info: Generating pages...
+2024-08-19T03:48:59.901Z - debug:  
+2024-08-19T03:48:59.902Z - debug:  
+2024-08-19T03:48:59.903Z - debug:  
+2024-08-19T03:48:59.904Z - debug:  
+2024-08-19T03:48:59.905Z - debug:  
+2024-08-19T03:48:59.906Z - debug:  
+2024-08-19T03:48:59.906Z - debug:  
+2024-08-19T03:49:00.965Z - debug:  
+2024-08-19T03:49:00.966Z - debug:  
+2024-08-19T03:49:00.968Z - debug:  
+2024-08-19T03:49:00.968Z - debug:  
+2024-08-19T03:49:00.969Z - debug:  
+2024-08-19T03:49:00.970Z - debug:  
+2024-08-19T03:49:00.971Z - debug:  
+2024-08-19T03:49:00.972Z - debug:  
+2024-08-19T03:49:04.163Z - debug:  
+2024-08-19T03:49:04.163Z - debug:  
+2024-08-19T03:50:39.142Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-19T03:51:09.888Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-19T03:51:09.888Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-19T03:51:41.992Z - debug:  
+2024-08-19T03:52:03.136Z - debug:  
+2024-08-19T03:52:03.363Z - debug:  
+2024-08-19T03:52:09.956Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-19T03:52:09.957Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-19T03:52:14.934Z - info: Pages built
+2024-08-19T03:52:16.522Z - info: Site data built
+2024-08-19T03:52:16.523Z - info: Website generation complete! Total build time: 246.76s
+2024-08-19T03:52:16.523Z - info: Build success!
+2024-08-19T03:56:03.684Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
