@@ -92,3 +92,75 @@
 2024-08-20T18:19:18.414Z - info: Website regeneration complete! Total build time: 0.564s
 2024-08-20T18:23:03.599Z - info: Website generation started at 2:22:50 am
 2024-08-20T18:23:10.964Z - info: Building assets...
+2024-08-20T18:23:16.325Z - info: Assets built
+2024-08-20T18:23:16.326Z - info: Generating pages...
+2024-08-20T18:23:37.201Z - debug:  
+2024-08-20T18:23:37.202Z - debug:  
+2024-08-20T18:23:37.903Z - debug:  
+2024-08-20T18:23:37.905Z - debug:  
+2024-08-20T18:23:37.906Z - debug:  
+2024-08-20T18:23:37.906Z - debug:  
+2024-08-20T18:23:37.907Z - debug:  
+2024-08-20T18:23:37.907Z - debug:  
+2024-08-20T18:23:37.907Z - debug:  
+2024-08-20T18:23:37.908Z - debug:  
+2024-08-20T18:23:37.908Z - debug:  
+2024-08-20T18:23:37.908Z - debug:  
+2024-08-20T18:23:37.909Z - debug:  
+2024-08-20T18:23:37.909Z - debug:  
+2024-08-20T18:23:37.909Z - debug:  
+2024-08-20T18:23:40.971Z - debug:  
+2024-08-20T18:23:40.971Z - debug:  
+2024-08-20T18:25:00.747Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-20T18:25:30.665Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-20T18:25:30.666Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-20T18:26:06.564Z - debug:  
+2024-08-20T18:26:26.119Z - debug:  
+2024-08-20T18:26:26.152Z - debug:  
+2024-08-20T18:26:31.954Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-20T18:26:31.955Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-20T18:26:36.676Z - info: Pages built
+2024-08-20T18:26:37.925Z - info: Site data built
+2024-08-20T18:26:37.926Z - info: Website generation complete! Total build time: 227.084s
+2024-08-20T18:26:37.926Z - info: Build success!
+2024-08-20T18:30:31.501Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-08-20T18:49:53.994Z - info: Website generation (lazy) started at 2:49:47 am
+2024-08-20T18:50:03.546Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-20T18:50:03.548Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-08-20T18:50:03.616Z - info: Building assets...
+2024-08-20T18:50:46.958Z - info: Assets built
+2024-08-20T18:50:46.959Z - info: Generating landing page...
+2024-08-20T18:50:48.074Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-20T18:50:49.213Z - info: Site data built
+2024-08-20T18:50:49.214Z - info: Website generation (lazy) complete! Total build time: 61.437s
+2024-08-20T18:50:49.278Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-20T18:50:49.278Z - info: Press CTRL+C to stop ...
+2024-08-20T18:51:28.264Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2024-08-20T18:51:29.214Z - info: Site data built
+2024-08-20T18:51:29.214Z - info: Lazy website regeneration complete! Total build time: 0.951s
+2024-08-20T18:52:21.015Z - info: [2:52:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings.md
+2024-08-20T18:52:21.016Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:52:21.017Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:52:21.017Z - info: 1. schedule/week1/index
+2024-08-20T18:52:22.031Z - info: Rebuilding 1 pages
+2024-08-20T18:52:22.803Z - info: Site data built
+2024-08-20T18:52:22.803Z - info: Pages rebuilt
+2024-08-20T18:52:22.804Z - info: Website regeneration complete! Total build time: 0.774s
+2024-08-20T18:52:43.606Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2024-08-20T18:52:44.365Z - info: Site data built
+2024-08-20T18:52:44.366Z - info: Lazy website regeneration complete! Total build time: 0.76s
+2024-08-20T18:52:47.369Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\index as some of its dependencies were changed since the last visit
+2024-08-20T18:52:48.256Z - info: Site data built
+2024-08-20T18:52:48.257Z - info: Lazy website regeneration complete! Total build time: 0.889s
+2024-08-20T19:10:30.529Z - info: Website generation started at 3:10:13 am
+2024-08-20T19:10:39.594Z - info: Building assets...
