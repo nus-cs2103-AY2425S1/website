@@ -1,0 +1,94 @@
+2024-08-20T17:57:17.313Z - info: Website generation (lazy) started at 1:57:10 am
+2024-08-20T17:57:29.400Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-20T17:57:29.402Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-08-20T17:57:29.469Z - info: Building assets...
+2024-08-20T17:58:25.707Z - info: Assets built
+2024-08-20T17:58:25.708Z - info: Generating landing page...
+2024-08-20T17:58:26.936Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-20T17:58:28.460Z - info: Site data built
+2024-08-20T17:58:28.461Z - info: Website generation (lazy) complete! Total build time: 78.276s
+2024-08-20T17:58:28.524Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-20T17:58:28.524Z - info: Press CTRL+C to stop ...
+2024-08-20T18:04:42.595Z - info: [2:04:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixC-faq.md
+2024-08-20T18:04:42.596Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:04:42.596Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:04:42.596Z - info: 1. index
+2024-08-20T18:04:42.619Z - info: [2:04:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\faq-fragment.md
+2024-08-20T18:04:42.620Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:04:42.620Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:04:42.620Z - info: 1. index
+2024-08-20T18:04:43.607Z - info: Assets built
+2024-08-20T18:05:25.960Z - info: Website generation (lazy) started at 2:05:12 am
+2024-08-20T18:05:36.596Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-20T18:05:36.598Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-08-20T18:05:36.669Z - info: Building assets...
+2024-08-20T18:06:18.380Z - info: Assets built
+2024-08-20T18:06:18.382Z - info: Generating landing page...
+2024-08-20T18:06:19.540Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-20T18:06:20.657Z - info: Site data built
+2024-08-20T18:06:20.658Z - info: Website generation (lazy) complete! Total build time: 67.939s
+2024-08-20T18:06:20.699Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-20T18:06:20.699Z - info: Press CTRL+C to stop ...
+2024-08-20T18:07:13.157Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2024-08-20T18:07:13.642Z - info: Site data built
+2024-08-20T18:07:13.643Z - info: Lazy website regeneration complete! Total build time: 0.486s
+2024-08-20T18:07:17.480Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixC-faq as some of its dependencies were changed since the last visit
+2024-08-20T18:07:18.589Z - info: Site data built
+2024-08-20T18:07:18.589Z - info: Lazy website regeneration complete! Total build time: 1.109s
+2024-08-20T18:10:39.708Z - info: [2:10:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\faq-fragment.md
+2024-08-20T18:10:39.709Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:10:39.709Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:10:39.710Z - info: 1. admin/appendixC-faq
+2024-08-20T18:10:40.728Z - info: Rebuilding 1 pages
+2024-08-20T18:10:41.860Z - info: Site data built
+2024-08-20T18:10:41.860Z - info: Pages rebuilt
+2024-08-20T18:10:41.861Z - info: Website regeneration complete! Total build time: 1.134s
+2024-08-20T18:14:25.180Z - info: [2:14:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixC-faq.md
+2024-08-20T18:14:25.181Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:14:25.182Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:14:25.182Z - info: 1. admin/appendixC-faq
+2024-08-20T18:14:25.207Z - info: [2:14:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\faq-fragment.md
+2024-08-20T18:14:25.208Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:14:25.208Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:14:25.208Z - info: 1. admin/appendixC-faq
+2024-08-20T18:14:26.189Z - info: Rebuilding 1 pages
+2024-08-20T18:14:27.416Z - info: Site data built
+2024-08-20T18:14:27.416Z - info: Pages rebuilt
+2024-08-20T18:14:27.417Z - info: Website regeneration complete! Total build time: 1.229s
+2024-08-20T18:15:55.541Z - info: [2:15:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\faq-fragment.md
+2024-08-20T18:15:55.542Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:15:55.542Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:15:55.543Z - info: 1. admin/appendixC-faq
+2024-08-20T18:15:56.560Z - info: Rebuilding 1 pages
+2024-08-20T18:15:57.736Z - info: Site data built
+2024-08-20T18:15:57.737Z - info: Pages rebuilt
+2024-08-20T18:15:57.737Z - info: Website regeneration complete! Total build time: 1.178s
+2024-08-20T18:16:26.241Z - info: [2:16:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\faq-fragment.md
+2024-08-20T18:16:26.242Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:16:26.243Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:16:26.243Z - info: 1. admin/appendixC-faq
+2024-08-20T18:16:27.261Z - info: Rebuilding 1 pages
+2024-08-20T18:16:28.323Z - info: Site data built
+2024-08-20T18:16:28.323Z - info: Pages rebuilt
+2024-08-20T18:16:28.323Z - info: Website regeneration complete! Total build time: 1.064s
+2024-08-20T18:17:00.560Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials as some of its dependencies were changed since the last visit
+2024-08-20T18:17:01.170Z - info: Site data built
+2024-08-20T18:17:01.171Z - info: Lazy website regeneration complete! Total build time: 0.611s
+2024-08-20T18:18:54.577Z - info: [2:18:54 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials.md
+2024-08-20T18:18:54.578Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:18:54.578Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:18:54.578Z - info: 1. admin/tutorials
+2024-08-20T18:18:55.600Z - info: Rebuilding 1 pages
+2024-08-20T18:18:56.109Z - info: Site data built
+2024-08-20T18:18:56.110Z - info: Pages rebuilt
+2024-08-20T18:18:56.110Z - info: Website regeneration complete! Total build time: 0.511s
+2024-08-20T18:19:16.831Z - info: [2:19:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials.md
+2024-08-20T18:19:16.832Z - info: Synchronizing opened pages list before reload
+2024-08-20T18:19:16.832Z - info: Current opened pages, from most-to-least recent:
+2024-08-20T18:19:16.832Z - info: 1. admin/tutorials
+2024-08-20T18:19:17.853Z - info: Rebuilding 1 pages
+2024-08-20T18:19:18.414Z - info: Site data built
+2024-08-20T18:19:18.414Z - info: Pages rebuilt
+2024-08-20T18:19:18.414Z - info: Website regeneration complete! Total build time: 0.564s
+2024-08-20T18:23:03.599Z - info: Website generation started at 2:22:50 am
+2024-08-20T18:23:10.964Z - info: Building assets...
