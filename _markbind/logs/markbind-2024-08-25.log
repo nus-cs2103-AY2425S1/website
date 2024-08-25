@@ -36,3 +36,45 @@
 2024-08-25T08:53:22.459Z - info: Generating pages...
 2024-08-25T08:54:32.123Z - info: Website generation started at 4:54:30 pm
 2024-08-25T08:54:39.115Z - info: Building assets...
+2024-08-25T08:54:44.422Z - info: Assets built
+2024-08-25T08:54:44.423Z - info: Generating pages...
+2024-08-25T08:55:02.939Z - debug:  
+2024-08-25T08:55:02.940Z - debug:  
+2024-08-25T08:55:02.941Z - debug:  
+2024-08-25T08:55:02.941Z - debug:  
+2024-08-25T08:55:02.942Z - debug:  
+2024-08-25T08:55:02.942Z - debug:  
+2024-08-25T08:55:02.943Z - debug:  
+2024-08-25T08:55:02.943Z - debug:  
+2024-08-25T08:55:02.943Z - debug:  
+2024-08-25T08:55:02.944Z - debug:  
+2024-08-25T08:55:02.944Z - debug:  
+2024-08-25T08:55:02.944Z - debug:  
+2024-08-25T08:55:02.945Z - debug:  
+2024-08-25T08:55:03.522Z - debug:  
+2024-08-25T08:55:03.523Z - debug:  
+2024-08-25T08:55:06.443Z - debug:  
+2024-08-25T08:55:06.444Z - debug:  
+2024-08-25T08:56:22.286Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-25T08:56:47.849Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-25T08:56:47.849Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-25T08:57:14.975Z - debug:  
+2024-08-25T08:57:33.078Z - debug:  
+2024-08-25T08:57:33.252Z - debug:  
+2024-08-25T08:57:38.226Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-25T08:57:38.227Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-25T08:57:42.521Z - info: Pages built
+2024-08-25T08:57:43.733Z - info: Site data built
+2024-08-25T08:57:43.733Z - info: Website generation complete! Total build time: 193.715s
+2024-08-25T08:57:43.733Z - info: Build success!
+2024-08-25T09:00:47.706Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
