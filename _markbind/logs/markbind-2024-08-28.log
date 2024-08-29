@@ -134,3 +134,71 @@
 2024-08-28T03:10:32.177Z - info: Website regeneration complete! Total build time: 1.942s
 2024-08-28T03:12:07.148Z - info: Website generation started at 11:11:54 am
 2024-08-28T03:12:14.464Z - info: Building assets...
+2024-08-28T03:12:20.254Z - info: Assets built
+2024-08-28T03:12:20.255Z - info: Generating pages...
+2024-08-28T03:12:40.440Z - debug:  
+2024-08-28T03:12:40.442Z - debug:  
+2024-08-28T03:12:40.443Z - debug:  
+2024-08-28T03:12:41.056Z - debug:  
+2024-08-28T03:12:41.057Z - debug:  
+2024-08-28T03:12:41.064Z - debug:  
+2024-08-28T03:12:41.064Z - debug:  
+2024-08-28T03:12:41.064Z - debug:  
+2024-08-28T03:12:41.065Z - debug:  
+2024-08-28T03:12:41.065Z - debug:  
+2024-08-28T03:12:41.065Z - debug:  
+2024-08-28T03:12:41.066Z - debug:  
+2024-08-28T03:12:41.066Z - debug:  
+2024-08-28T03:12:41.066Z - debug:  
+2024-08-28T03:12:41.066Z - debug:  
+2024-08-28T03:12:44.207Z - debug:  
+2024-08-28T03:12:44.207Z - debug:  
+2024-08-28T03:14:02.931Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-28T03:14:28.206Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-28T03:14:28.207Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-28T03:14:54.621Z - debug:  
+2024-08-28T03:15:15.058Z - debug:  
+2024-08-28T03:15:15.277Z - debug:  
+2024-08-28T03:15:21.280Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-28T03:15:21.281Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-28T03:15:25.520Z - info: Pages built
+2024-08-28T03:15:26.619Z - info: Site data built
+2024-08-28T03:15:26.619Z - info: Website generation complete! Total build time: 212.215s
+2024-08-28T03:15:26.619Z - info: Build success!
+2024-08-28T03:19:07.161Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-08-28T12:14:45.692Z - info: Website generation started at 8:14:39 pm
+2024-08-28T12:14:53.924Z - info: Building assets...
+2024-08-28T12:14:59.647Z - info: Assets built
+2024-08-28T12:14:59.648Z - info: Generating pages...
+2024-08-28T12:15:11.034Z - debug:  
+2024-08-28T12:15:11.080Z - debug:  
+2024-08-28T12:15:11.113Z - debug:  
+2024-08-28T12:15:11.155Z - debug:  
+2024-08-28T12:15:11.180Z - debug:  
+2024-08-28T12:15:12.073Z - debug:  
+2024-08-28T12:15:12.103Z - debug:  
+2024-08-28T12:15:12.128Z - debug:  
+2024-08-28T12:15:12.148Z - debug:  
+2024-08-28T12:15:12.170Z - debug:  
+2024-08-28T12:15:12.190Z - debug:  
+2024-08-28T12:15:12.212Z - debug:  
+2024-08-28T12:15:19.132Z - debug:  
+2024-08-28T12:15:19.211Z - debug:  
+2024-08-28T12:15:22.161Z - debug:  
+2024-08-28T12:15:37.900Z - debug:  
+2024-08-28T12:15:55.088Z - debug:  
+2024-08-28T12:16:44.713Z - info: Pages built
+2024-08-28T12:16:45.902Z - info: Site data built
+2024-08-28T12:16:45.902Z - info: Website generation complete! Total build time: 126.574s
+2024-08-28T12:16:45.902Z - info: Build success!
+2024-08-28T12:21:16.940Z - info: The website has been deployed at: https://nus-tee3201.github.io/2024
