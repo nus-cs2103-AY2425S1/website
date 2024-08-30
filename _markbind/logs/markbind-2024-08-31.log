@@ -1,0 +1,27 @@
+2024-08-30T16:52:53.002Z - info: Website generation (lazy) started at 12:52:45 am
+2024-08-30T16:53:04.113Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-30T16:53:04.114Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-08-30T16:53:04.198Z - info: Building assets...
+2024-08-30T16:53:59.502Z - info: Assets built
+2024-08-30T16:53:59.503Z - info: Generating landing page...
+2024-08-30T16:54:01.059Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-30T16:54:02.345Z - info: Site data built
+2024-08-30T16:54:02.345Z - info: Website generation (lazy) complete! Total build time: 76.578s
+2024-08-30T16:54:02.404Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-30T16:54:02.404Z - info: Press CTRL+C to stop ...
+2024-08-30T17:10:03.350Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2024-08-30T17:10:03.880Z - info: Site data built
+2024-08-30T17:10:03.880Z - info: Lazy website regeneration complete! Total build time: 0.531s
+2024-08-30T17:10:10.420Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages as some of its dependencies were changed since the last visit
+2024-08-30T17:10:10.644Z - info: Site data built
+2024-08-30T17:10:10.645Z - info: Lazy website regeneration complete! Total build time: 0.225s
+2024-08-30T17:10:31.108Z - info: [1:10:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2024-08-30T17:10:31.108Z - info: Synchronizing opened pages list before reload
+2024-08-30T17:10:31.109Z - info: Current opened pages, from most-to-least recent:
+2024-08-30T17:10:31.109Z - info: 1. admin/programmingLanguages
+2024-08-30T17:10:32.118Z - info: Rebuilding 1 pages
+2024-08-30T17:10:32.296Z - info: Site data built
+2024-08-30T17:10:32.296Z - info: Pages rebuilt
+2024-08-30T17:10:32.296Z - info: Website regeneration complete! Total build time: 0.18s
+2024-08-30T17:11:58.248Z - info: Website generation started at 1:11:44 am
+2024-08-30T17:12:06.137Z - info: Building assets...
