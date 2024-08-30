@@ -218,7 +218,7 @@ with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs java"}},
 with(this){return _c('h3',{attrs:{"id":"a-junit"}},[_c('span',{staticClass:"badge rounded-pill bg-primary"},[_v("A-JUnit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#a-junit","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('strong',[_v("Minimal")]),_v(": Use JUnit to "),_c('mark',[_v("at least two non-trivial methods")]),_v(", from two different classes (if you have multiple classes),"),_c('br'),_v("\nand, ensure they are "),_c('mark',[_v("tested reasonably well")]),_v(" (i.e., the test code should try to catch most potential bugs in the target methods).")]),_v(" "),_c('li',[_c('strong',[_v("Stretch goal")]),_v(": Use JUnit to test all non-trivial public methods of all classes.")])])}
+with(this){return _c('ul',[_c('li',[_c('strong',[_v("Minimal")]),_v(": Use JUnit to test "),_c('mark',[_v("at least two non-trivial methods")]),_v(", from two different classes (if you have multiple classes),"),_c('br'),_v("\nand, ensure they are "),_c('mark',[_v("tested reasonably well")]),_v(" (i.e., the test code should try to catch most potential bugs in the target methods).")]),_v(" "),_c('li',[_c('strong',[_v("Stretch goal")]),_v(": Use JUnit to test all non-trivial public methods of all classes.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Refer to the "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/junit.html"}},[_c('em',[_v("JUnit tutorial")]),_v(" @se-edu/guides")]),_v(" to find how to use JUnit (in the context of this project).")])}
@@ -569,6 +569,6 @@ with(this){return _c('h3',{attrs:{"id":"d-merchandise"}},[_c('span',{staticClass
 with(this){return _c('p',[_v("Support managing info about merchandise "),_c('span',{staticClass:"dimmed"},[_v("e.g., a property agent to keep track of properties, a collector of stamps keep track of items in the collection")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Thu, 29 Aug 2024, 15:54:07 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Fri, 30 Aug 2024, 9:40:48 GMT+8]")])])])}
 }];
   
