@@ -122,3 +122,64 @@
 2024-09-06T09:54:27.498Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
 2024-09-06T09:57:30.769Z - info: Website generation started at 5:57:21 pm
 2024-09-06T09:57:43.364Z - info: Building assets...
+2024-09-06T09:57:51.572Z - info: Assets built
+2024-09-06T09:57:51.573Z - info: Generating pages...
+2024-09-06T09:58:16.507Z - debug:  
+2024-09-06T09:58:16.510Z - debug:  
+2024-09-06T09:58:16.514Z - debug:  
+2024-09-06T09:58:16.514Z - debug:  
+2024-09-06T09:58:16.515Z - debug:  
+2024-09-06T09:58:16.536Z - debug:  
+2024-09-06T09:58:16.538Z - debug:  
+2024-09-06T09:58:16.539Z - debug:  
+2024-09-06T09:58:16.567Z - debug:  
+2024-09-06T09:58:16.641Z - debug:  
+2024-09-06T09:58:16.648Z - debug:  
+2024-09-06T09:58:16.714Z - debug:  
+2024-09-06T09:58:16.715Z - debug:  
+2024-09-06T09:58:16.817Z - debug:  
+2024-09-06T09:58:19.420Z - debug:  
+2024-09-06T09:58:19.420Z - debug:  
+2024-09-06T09:58:19.420Z - debug:  
+2024-09-06T09:58:56.026Z - debug:  
+2024-09-06T10:01:41.154Z - debug:  
+2024-09-06T10:02:35.383Z - debug:  
+2024-09-06T10:02:35.459Z - debug:  
+2024-09-06T10:02:54.861Z - info: Pages built
+2024-09-06T10:02:56.676Z - info: Site data built
+2024-09-06T10:02:56.677Z - info: Website generation complete! Total build time: 335.089s
+2024-09-06T10:02:56.678Z - info: Build success!
+2024-09-06T10:08:45.653Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-09-06T15:34:02.455Z - info: Website generation (lazy) started at 11:33:55 pm
+2024-09-06T15:34:14.425Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-06T15:34:14.427Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-06T15:34:14.510Z - info: Building assets...
+2024-09-06T15:35:08.708Z - info: Assets built
+2024-09-06T15:35:08.710Z - info: Generating landing page...
+2024-09-06T15:35:10.356Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-09-06T15:35:11.587Z - info: Site data built
+2024-09-06T15:35:11.587Z - info: Website generation (lazy) complete! Total build time: 75.741s
+2024-09-06T15:35:11.639Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-09-06T15:35:11.640Z - info: Press CTRL+C to stop ...
+2024-09-06T15:37:10.576Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\project as some of its dependencies were changed since the last visit
+2024-09-06T15:37:13.352Z - info: Site data built
+2024-09-06T15:37:13.353Z - info: Lazy website regeneration complete! Total build time: 2.776s
+2024-09-06T15:37:16.176Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project as some of its dependencies were changed since the last visit
+2024-09-06T15:37:19.239Z - info: Site data built
+2024-09-06T15:37:19.239Z - info: Lazy website regeneration complete! Total build time: 3.063s
+2024-09-06T15:39:45.929Z - info: [11:39:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-09-06T15:39:45.932Z - info: Synchronizing opened pages list before reload
+2024-09-06T15:39:45.933Z - info: Current opened pages, from most-to-least recent:
+2024-09-06T15:39:45.934Z - info: 1. schedule/week4/project
+2024-09-06T15:39:46.943Z - info: Rebuilding 1 pages
+2024-09-06T15:39:50.224Z - info: Site data built
+2024-09-06T15:39:50.224Z - info: Pages rebuilt
+2024-09-06T15:39:50.224Z - info: Website regeneration complete! Total build time: 3.284s
+2024-09-06T15:41:03.533Z - info: [11:41:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-09-06T15:41:03.534Z - info: Synchronizing opened pages list before reload
+2024-09-06T15:41:03.535Z - info: Current opened pages, from most-to-least recent:
+2024-09-06T15:41:03.535Z - info: 1. schedule/week4/project
+2024-09-06T15:41:04.544Z - info: Rebuilding 1 pages
+2024-09-06T15:41:07.615Z - info: Site data built
+2024-09-06T15:41:07.616Z - info: Pages rebuilt
+2024-09-06T15:41:07.616Z - info: Website regeneration complete! Total build time: 3.074s
