@@ -125,6 +125,6 @@ with(this){return _c('ul',[_c('li',[_v("Do the following tutorials to get famili
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/ab3RemovingFields.html"}},[_v("Tutorial 3 - Removing a field from an entity")]),_v(" "),_c('ul',[_c('li',[_v("This tutorial is optional to do, but "),_c('strong',[_v("at least give it a quick read")]),_v(".")]),_v(" "),_c('li',[_v("Submission: not required.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 12 Sept 2024, 0:18:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 12 Sept 2024, 13:47:56 GMT+8]")])])])}
 }];
   
