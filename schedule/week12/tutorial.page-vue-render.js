@@ -11,6 +11,6 @@ with(this){return _c('nav',[_c('ul',{staticClass:"pagination mt-2"},[_c('li',{st
 with(this){return _c('h1',{attrs:{"id":"week-12-mon-nov-4th-tutorial"}},[_v("Week 12 "),_c('small',[_c('small',[_c('span',{staticClass:"dimmed"},[_v("[Mon, Nov 4th]")]),_v(" - Tutorial")])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-12-mon-nov-4th-tutorial","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 19 Sept 2024, 18:59:52 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 19 Sept 2024, 21:30:14 GMT+8]")])])])}
 }];
   
