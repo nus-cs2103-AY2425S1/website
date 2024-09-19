@@ -294,3 +294,65 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-frag
 2024-09-18T07:44:31.777Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
 2024-09-18T07:44:31.778Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
 2024-09-18T07:44:31.974Z - info: Building assets...
+2024-09-18T07:45:36.264Z - info: Assets built
+2024-09-18T07:45:36.266Z - info: Generating pages...
+2024-09-18T07:45:59.117Z - debug:  
+2024-09-18T07:45:59.120Z - debug:  
+2024-09-18T07:45:59.121Z - debug:  
+2024-09-18T07:45:59.121Z - debug:  
+2024-09-18T07:45:59.122Z - debug:  
+2024-09-18T07:45:59.122Z - debug:  
+2024-09-18T07:45:59.123Z - debug:  
+2024-09-18T07:45:59.123Z - debug:  
+2024-09-18T07:45:59.124Z - debug:  
+2024-09-18T07:45:59.124Z - debug:  
+2024-09-18T07:45:59.125Z - debug:  
+2024-09-18T07:45:59.526Z - debug:  
+2024-09-18T07:45:59.527Z - debug:  
+2024-09-18T07:45:59.528Z - debug:  
+2024-09-18T07:45:59.529Z - debug:  
+2024-09-18T07:46:02.073Z - debug:  
+2024-09-18T07:46:02.073Z - debug:  
+2024-09-18T07:46:32.975Z - debug:  
+2024-09-18T07:48:33.570Z - debug:  
+2024-09-18T07:48:59.044Z - debug:  
+2024-09-18T07:48:59.155Z - debug:  
+2024-09-18T07:49:13.781Z - info: Pages built
+2024-09-18T07:49:15.079Z - info: Site data built
+2024-09-18T07:49:15.080Z - info: Website generation complete! Total build time: 339.93s
+2024-09-18T07:49:15.080Z - info: Build success!
+2024-09-18T07:52:00.363Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-09-18T11:57:08.866Z - info: Website generation started at 7:56:42 pm
+2024-09-18T11:57:24.155Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-18T11:57:24.157Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-18T11:57:24.158Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-18T11:57:24.160Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-18T11:57:24.242Z - info: Building assets...
+2024-09-18T11:58:43.206Z - info: Assets built
+2024-09-18T11:58:43.207Z - info: Generating pages...
+2024-09-18T11:58:51.555Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\mid-semester-survey-results.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-09-18T11:58:59.432Z - debug:  
+2024-09-18T11:58:59.741Z - debug:  
+2024-09-18T11:59:00.064Z - debug:  
+2024-09-18T11:59:00.196Z - debug:  
+2024-09-18T11:59:00.229Z - debug:  
+2024-09-18T11:59:01.650Z - debug:  
+2024-09-18T11:59:01.668Z - debug:  
+2024-09-18T11:59:01.681Z - debug:  
+2024-09-18T11:59:01.685Z - debug:  
+2024-09-18T11:59:01.701Z - debug:  
+2024-09-18T11:59:01.704Z - debug:  
+2024-09-18T11:59:01.726Z - debug:  
+2024-09-18T11:59:09.072Z - debug:  
+2024-09-18T11:59:09.084Z - debug:  
+2024-09-18T11:59:12.503Z - debug:  
+2024-09-18T11:59:31.617Z - debug:  
+2024-09-18T11:59:38.558Z - debug:  
+2024-09-18T11:59:53.552Z - debug:  
+2024-09-18T12:00:49.578Z - info: Pages built
+2024-09-18T12:00:50.833Z - info: Site data built
+2024-09-18T12:00:50.834Z - info: Website generation complete! Total build time: 248.759s
+2024-09-18T12:00:50.834Z - info: Build success!
+2024-09-18T12:03:39.776Z - info: The website has been deployed at: https://nus-tee3201.github.io/2024
