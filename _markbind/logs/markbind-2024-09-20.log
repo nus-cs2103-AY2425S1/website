@@ -1,0 +1,24 @@
+2024-09-20T10:02:08.556Z - info: Website generation (lazy) started at 6:01:26 pm
+2024-09-20T10:02:36.052Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-20T10:02:36.056Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-20T10:02:36.060Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-20T10:02:36.063Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-20T10:02:36.066Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-20T10:02:36.068Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-20T10:02:36.239Z - info: Building assets...
+2024-09-20T10:05:42.283Z - info: Assets built
+2024-09-20T10:05:42.285Z - info: Generating landing page...
+2024-09-20T10:05:44.011Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-09-20T10:05:45.404Z - info: Site data built
+2024-09-20T10:05:45.405Z - info: Website generation (lazy) complete! Total build time: 258.564s
+2024-09-20T10:05:45.894Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-09-20T10:05:45.894Z - info: Press CTRL+C to stop ...
+2024-09-20T10:08:18.585Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\teamList as some of its dependencies were changed since the last visit
+2024-09-20T10:08:21.458Z - info: Site data built
+2024-09-20T10:08:21.459Z - info: Lazy website regeneration complete! Total build time: 2.876s
+2024-09-20T10:11:04.303Z - info: Website generation started at 6:10:15 pm
+2024-09-20T10:11:21.290Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-20T10:11:21.293Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-20T10:11:21.295Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-20T10:11:21.297Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-20T10:11:21.401Z - info: Building assets...
