@@ -41,7 +41,7 @@ with(this){return _c('li',{staticStyle:{"display":"flex"}},[_c('span',{staticSty
 with(this){return _c('mark',[_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("java -version")]),_v(" command")])}
 },function anonymous(
 ) {
-with(this){return _c('li',{staticStyle:{"display":"flex"}},[_c('span',{staticStyle:{"line-height":"unset","margin-inline-end":"0.35em","align-self":"flex-start","flex-shrink":"0"},attrs:{"aria-hidden":"true"}},[_v("5.4")]),_c('div',[_v("Run the jar file using the "),_c('mark',[_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("java -jar {file_name}")]),_v(" command")]),_v(" (rather than double-clicking) in the same terminal.")])])}
+with(this){return _c('li',{staticStyle:{"display":"flex"}},[_c('span',{staticStyle:{"line-height":"unset","margin-inline-end":"0.35em","align-self":"flex-start","flex-shrink":"0"},attrs:{"aria-hidden":"true"}},[_v("5.4")]),_c('div',[_v("Run the jar file using the "),_c('mark',[_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("java -jar \"{file_name}\"")]),_v(" command")]),_v(" (rather than double-clicking) in the same terminal.")])])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_c('p',[_c('strong',[_v("Do a light testing of the app")]),_v(" (not more than 10 minutes) to ensure the claimed features actually exist and there are no obvious bugs."),_c('br')])])}
@@ -62,6 +62,6 @@ with(this){return _c('li',[_c('p',[_c('span',{staticClass:"dimmed"},[_c('strong'
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w7.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" iP: Week 7")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-grading.html"}},[_c('span',[_v("iP: Grading "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 23 Sept 2024, 14:01:07 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 24 Sept 2024, 22:54:41 GMT+8]")])])])}
 }];
   
