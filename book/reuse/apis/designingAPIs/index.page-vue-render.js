@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"designing-apis"}},[_c('span',[
 with(this){return _c('p',[_v("You can use UML "),_c('em',[_v("sequence diagrams")]),_v(" to analyze the required interactions between components in order to discover the required API. Given below is an example.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 28 Sept 2024, 23:58:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 30 Sept 2024, 0:09:13 GMT+8]")])])])}
 }];
   
