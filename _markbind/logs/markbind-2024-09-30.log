@@ -4,3 +4,147 @@
 2024-09-29T16:07:53.453Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
 2024-09-29T16:07:53.455Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
 2024-09-29T16:07:53.590Z - info: Building assets...
+2024-09-29T16:09:13.244Z - info: Assets built
+2024-09-29T16:09:13.246Z - info: Generating pages...
+2024-09-29T16:09:36.270Z - debug:  
+2024-09-29T16:09:36.272Z - debug:  
+2024-09-29T16:09:36.315Z - debug:  
+2024-09-29T16:09:36.322Z - debug:  
+2024-09-29T16:09:36.325Z - debug:  
+2024-09-29T16:09:36.409Z - debug:  
+2024-09-29T16:09:36.409Z - debug:  
+2024-09-29T16:09:36.428Z - debug:  
+2024-09-29T16:09:36.428Z - debug:  
+2024-09-29T16:09:36.444Z - debug:  
+2024-09-29T16:09:36.482Z - debug:  
+2024-09-29T16:09:36.512Z - debug:  
+2024-09-29T16:09:36.573Z - debug:  
+2024-09-29T16:09:36.573Z - debug:  
+2024-09-29T16:09:36.594Z - debug:  
+2024-09-29T16:09:38.853Z - debug:  
+2024-09-29T16:09:38.854Z - debug:  
+2024-09-29T16:10:10.534Z - debug:  
+2024-09-29T16:12:29.256Z - debug:  
+2024-09-29T16:12:52.836Z - debug:  
+2024-09-29T16:12:52.929Z - debug:  
+2024-09-29T16:13:09.510Z - info: Pages built
+2024-09-29T16:13:11.119Z - info: Site data built
+2024-09-29T16:13:11.120Z - info: Website generation complete! Total build time: 366.655s
+2024-09-29T16:13:11.120Z - info: Build success!
+2024-09-29T16:17:29.803Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-09-30T04:33:05.556Z - info: Website generation (lazy) started at 12:32:40 pm
+2024-09-30T04:33:23.179Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-30T04:33:23.182Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-30T04:33:23.185Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-30T04:33:23.188Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-30T04:33:23.190Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-30T04:33:23.193Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-30T04:33:23.330Z - info: Building assets...
+2024-09-30T04:36:27.994Z - info: Assets built
+2024-09-30T04:36:27.997Z - info: Generating landing page...
+2024-09-30T04:36:30.361Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-09-30T04:36:32.063Z - info: Site data built
+2024-09-30T04:36:32.063Z - info: Website generation (lazy) complete! Total build time: 231.222s
+2024-09-30T04:36:33.283Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-09-30T04:36:33.283Z - info: Press CTRL+C to stop ...
+2024-09-30T04:36:35.589Z - info: [12:36:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:36:35.590Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:36:35.591Z - info: No pages are currently opened
+2024-09-30T04:36:36.797Z - info: Assets built
+2024-09-30T04:38:15.813Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\mid-semester-survey-results as some of its dependencies were changed since the last visit
+2024-09-30T04:38:16.590Z - info: Site data built
+2024-09-30T04:38:16.591Z - info: Lazy website regeneration complete! Total build time: 0.778s
+2024-09-30T04:40:15.146Z - info: [12:40:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:40:15.147Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:40:15.148Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:40:15.148Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:40:16.152Z - info: Rebuilding 1 pages
+2024-09-30T04:40:16.812Z - info: Site data built
+2024-09-30T04:40:16.812Z - info: Pages rebuilt
+2024-09-30T04:40:16.813Z - info: Website regeneration complete! Total build time: 0.664s
+2024-09-30T04:44:47.410Z - info: [12:44:47 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:44:47.411Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:44:47.411Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:44:47.412Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:44:48.424Z - info: Rebuilding 1 pages
+2024-09-30T04:44:49.020Z - info: Site data built
+2024-09-30T04:44:49.021Z - info: Pages rebuilt
+2024-09-30T04:44:49.021Z - info: Website regeneration complete! Total build time: 0.599s
+2024-09-30T04:45:20.123Z - info: [12:45:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:45:20.124Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:45:20.124Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:45:20.124Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:45:21.132Z - info: Rebuilding 1 pages
+2024-09-30T04:45:21.790Z - info: Site data built
+2024-09-30T04:45:21.790Z - info: Pages rebuilt
+2024-09-30T04:45:21.791Z - info: Website regeneration complete! Total build time: 0.659s
+2024-09-30T04:46:12.380Z - info: [12:46:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:46:12.380Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:46:12.381Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:46:12.381Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:46:13.393Z - info: Rebuilding 1 pages
+2024-09-30T04:46:13.999Z - info: Site data built
+2024-09-30T04:46:13.999Z - info: Pages rebuilt
+2024-09-30T04:46:13.999Z - info: Website regeneration complete! Total build time: 0.607s
+2024-09-30T04:47:29.116Z - info: [12:47:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:47:29.116Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:47:29.117Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:47:29.118Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:47:30.162Z - info: Rebuilding 1 pages
+2024-09-30T04:47:30.901Z - info: Site data built
+2024-09-30T04:47:30.901Z - info: Pages rebuilt
+2024-09-30T04:47:30.902Z - info: Website regeneration complete! Total build time: 0.755s
+2024-09-30T04:48:02.305Z - info: [12:48:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:48:02.306Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:48:02.306Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:48:02.306Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:48:03.311Z - info: Rebuilding 1 pages
+2024-09-30T04:48:03.951Z - info: Site data built
+2024-09-30T04:48:03.951Z - info: Pages rebuilt
+2024-09-30T04:48:03.952Z - info: Website regeneration complete! Total build time: 0.641s
+2024-09-30T04:48:32.785Z - info: [12:48:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:48:32.785Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:48:32.785Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:48:32.786Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:48:33.859Z - info: Rebuilding 1 pages
+2024-09-30T04:48:34.907Z - info: Site data built
+2024-09-30T04:48:34.908Z - info: Pages rebuilt
+2024-09-30T04:48:34.908Z - info: Website regeneration complete! Total build time: 1.056s
+2024-09-30T04:48:51.559Z - info: [12:48:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:48:51.560Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:48:51.560Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:48:51.560Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:48:52.574Z - info: Rebuilding 1 pages
+2024-09-30T04:48:53.117Z - info: Site data built
+2024-09-30T04:48:53.117Z - info: Pages rebuilt
+2024-09-30T04:48:53.118Z - info: Website regeneration complete! Total build time: 0.545s
+2024-09-30T04:49:28.668Z - info: [12:49:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:49:28.669Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:49:28.669Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:49:28.670Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:49:29.679Z - info: Rebuilding 1 pages
+2024-09-30T04:49:30.139Z - info: Site data built
+2024-09-30T04:49:30.140Z - info: Pages rebuilt
+2024-09-30T04:49:30.140Z - info: Website regeneration complete! Total build time: 0.462s
+2024-09-30T04:50:15.495Z - info: [12:50:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:50:15.496Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:50:15.496Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:50:15.496Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:50:16.506Z - info: Rebuilding 1 pages
+2024-09-30T04:50:16.984Z - info: Site data built
+2024-09-30T04:50:16.984Z - info: Pages rebuilt
+2024-09-30T04:50:16.984Z - info: Website regeneration complete! Total build time: 0.479s
+2024-09-30T04:52:12.428Z - info: [12:52:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\mid-semester-survey-results.md
+2024-09-30T04:52:12.428Z - info: Synchronizing opened pages list before reload
+2024-09-30T04:52:12.428Z - info: Current opened pages, from most-to-least recent:
+2024-09-30T04:52:12.429Z - info: 1. admin/mid-semester-survey-results
+2024-09-30T04:52:13.432Z - info: Rebuilding 1 pages
+2024-09-30T04:52:13.924Z - info: Site data built
+2024-09-30T04:52:13.925Z - info: Pages rebuilt
+2024-09-30T04:52:13.925Z - info: Website regeneration complete! Total build time: 0.494s
+2024-09-30T04:57:21.891Z - info: Website generation started at 12:56:47 pm
+2024-09-30T04:57:34.550Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-30T04:57:34.551Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-09-30T04:57:34.552Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-30T04:57:34.554Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\node_modules\.cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-09-30T04:57:34.653Z - info: Building assets...
