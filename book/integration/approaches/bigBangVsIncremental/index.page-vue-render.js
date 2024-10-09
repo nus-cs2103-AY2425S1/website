@@ -14,10 +14,10 @@ with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('spa
 with(this){return _c('div',[_c('h4',{attrs:{"id":"big-bang-versus-incremental-integration"}},[_c('span',[_v("Big-bang versus incremental integration")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#big-bang-versus-incremental-integration","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_c('em',[_v("Big-bang integration")]),_v(": integrate all components at the same time.")])])}
+with(this){return _c('p',[_c('strong',[_c('em',[_v("Big-bang integration")]),_v(": integrate all (or too many) components at the same time.")]),_v(" More generally, integrating too many changes at the same time.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_c('em',[_v("Incremental integration")]),_v(": integrate a few components at a time.")]),_v(" This approach is better than big-bang integration because it surfaces integration problems in a more manageable way.")])}
+with(this){return _c('p',[_c('strong',[_c('em',[_v("Incremental integration")]),_v(": integrate a few components at a time.")]),_v(" More generally, integrating changes gradually. This approach is better than big-bang integration because it surfaces integration problems in a more manageable way.")])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"block-embed-service-powerpoint"},[_c('iframe',{attrs:{"type":"text/html","src":"https://onedrive.live.com/embed?cid=A5AF047C4CAD67AB&resid=A5AF047C4CAD67AB%212315&authkey=AG4cur5IrM7vr7M&em=2&action=embedview&wdAr=1.3333333333333333","frameborder":"0","width":"610","height":"481","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
@@ -26,6 +26,6 @@ with(this){return _c('div',{staticClass:"block-embed-service-powerpoint"},[_c('i
 with(this){return _c('h5',{attrs:{"id":"exercises"}},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-question-sign",attrs:{"aria-hidden":"true"}})]),_c('span',[_c('span',{staticClass:"glyphicon glyphicon-ok-sign",attrs:{"aria-hidden":"true"}})]),_v(" Exercises:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exercises","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 9 Oct 2024, 11:03:05 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 9 Oct 2024, 17:00:33 GMT+8]")])])])}
 }];
   
