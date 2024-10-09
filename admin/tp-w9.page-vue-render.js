@@ -50,7 +50,7 @@ with(this){return _c('li',[_c('span',[_c('span',{staticClass:"fas fa-users",attr
 with(this){return _c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_v("Revise the MVP design further, if needed. If you think some of the ongoing work intended for the current iteration may not finish in time, you can reassign them to a future iteration, provided they are not "),_c('em',[_v("essential")]),_v(" for the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.3")]),_v(" (i.e., you can still get a 'working product' without them).")])}
+with(this){return _c('li',[_v("Revise the MVP design further, if needed. If you think some of the ongoing work intended for the current iteration may not finish in time, you can reassign them to a future iteration, provided they are not "),_c('em',[_v("essential")]),_v(" for the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.3")]),_v(" "),_c('span',{staticClass:"dimmed"},[_v("(i.e., you can still get a 'working product' without them)")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('strong',[_c('mark',[_v("Write a fairly detailed "),_c('em',[_v("Release Note")])])])}
@@ -68,6 +68,6 @@ with(this){return _c('div',[_c('div',{staticClass:"border border-success pt-2 ps
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-w8.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP Week 8: First feature increment → v1.2")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-w10.html"}},[_c('span',[_v("tP Week 10: Alpha version → v1.4 "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 6 Oct 2024, 20:40:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 9 Oct 2024, 11:03:05 GMT+8]")])])])}
 }];
   
