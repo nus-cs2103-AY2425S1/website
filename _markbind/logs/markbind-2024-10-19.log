@@ -1,0 +1,156 @@
+2024-10-19T06:42:21.286Z - info: Website generation (lazy) started at 14:42:20
+2024-10-19T06:42:21.647Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-10-19T06:42:21.647Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-10-19T06:42:21.667Z - info: Building assets...
+2024-10-19T06:42:23.007Z - info: Assets built
+2024-10-19T06:42:23.008Z - info: Generating landing page...
+2024-10-19T06:42:23.455Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-10-19T06:42:23.526Z - info: Site data built
+2024-10-19T06:42:23.526Z - info: Website generation (lazy) complete! Total build time: 2.547s
+2024-10-19T06:42:23.536Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2024-10-19T06:42:23.536Z - info: Press CTRL+C to stop ...
+2024-10-19T06:44:24.205Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week10/project as some of its dependencies were changed since the last visit
+2024-10-19T06:44:24.973Z - info: Site data built
+2024-10-19T06:44:24.973Z - info: Lazy website regeneration complete! Total build time: 0.769s
+2024-10-19T06:50:21.291Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index as some of its dependencies were changed since the last visit
+2024-10-19T06:50:21.459Z - info: Site data built
+2024-10-19T06:50:21.459Z - info: Lazy website regeneration complete! Total build time: 0.168s
+2024-10-19T07:27:59.074Z - info: [15:27:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-19T07:27:59.075Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:27:59.076Z - info: No pages are currently opened
+2024-10-19T07:28:00.095Z - info: No pages needed to be rebuilt
+2024-10-19T07:28:42.612Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week10/project as some of its dependencies were changed since the last visit
+2024-10-19T07:28:42.851Z - error:  Error: No such segment '#heading_deliver_the_alpha_version' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-w10.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+2024-10-19T07:28:42.877Z - error:  Error: No such segment '#heading_smoke_test_catcher' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-w10.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+2024-10-19T07:28:43.084Z - error:  Error: No such segment '#heading_deliver_the_alpha_version' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-w10.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:370:42
+2024-10-19T07:28:43.129Z - error:  Error: No such segment '#heading_smoke_test_catcher' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-w10.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:370:42
+2024-10-19T07:28:43.296Z - info: Site data built
+2024-10-19T07:28:43.296Z - info: Lazy website regeneration complete! Total build time: 0.684s
+2024-10-19T07:29:37.188Z - info: [15:29:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-19T07:29:37.188Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:29:37.188Z - info: Current opened pages, from most-to-least recent:
+2024-10-19T07:29:37.189Z - info: 1. schedule/week10/project
+2024-10-19T07:29:38.207Z - info: Rebuilding 1 pages
+2024-10-19T07:29:38.944Z - info: Site data built
+2024-10-19T07:29:38.944Z - info: Pages rebuilt
+2024-10-19T07:29:38.944Z - info: Website regeneration complete! Total build time: 0.739s
+2024-10-19T07:32:57.525Z - info: [15:32:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-19T07:32:57.525Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:32:57.525Z - info: Current opened pages, from most-to-least recent:
+2024-10-19T07:32:57.525Z - info: 1. schedule/week10/project
+2024-10-19T07:32:58.531Z - info: Rebuilding 1 pages
+2024-10-19T07:32:59.294Z - info: Site data built
+2024-10-19T07:32:59.294Z - info: Pages rebuilt
+2024-10-19T07:32:59.294Z - info: Website regeneration complete! Total build time: 0.765s
+2024-10-19T07:33:20.027Z - info: [15:33:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-19T07:33:20.028Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:33:20.028Z - info: Current opened pages, from most-to-least recent:
+2024-10-19T07:33:20.028Z - info: 1. schedule/week10/project
+2024-10-19T07:33:21.046Z - info: Rebuilding 1 pages
+2024-10-19T07:33:21.778Z - info: Site data built
+2024-10-19T07:33:21.778Z - info: Pages rebuilt
+2024-10-19T07:33:21.778Z - info: Website regeneration complete! Total build time: 0.734s
+2024-10-19T07:37:06.144Z - info: [15:37:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-19T07:37:06.145Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:37:06.145Z - info: Current opened pages, from most-to-least recent:
+2024-10-19T07:37:06.145Z - info: 1. schedule/week10/project
+2024-10-19T07:37:07.160Z - info: Rebuilding 1 pages
+2024-10-19T07:37:07.961Z - info: Site data built
+2024-10-19T07:37:07.961Z - info: Pages rebuilt
+2024-10-19T07:37:07.961Z - info: Website regeneration complete! Total build time: 0.804s
+2024-10-19T07:39:16.474Z - info: [15:39:16] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyTpTasks-fragment.md
+2024-10-19T07:39:16.474Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:39:16.474Z - info: Current opened pages, from most-to-least recent:
+2024-10-19T07:39:16.475Z - info: 1. schedule/week10/project
+2024-10-19T07:39:17.583Z - info: Rebuilding 1 pages
+2024-10-19T07:39:18.311Z - info: Site data built
+2024-10-19T07:39:18.311Z - info: Pages rebuilt
+2024-10-19T07:39:18.312Z - info: Website regeneration complete! Total build time: 0.73s
+2024-10-19T07:40:55.974Z - info: [15:40:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyTpTasks-fragment.md
+2024-10-19T07:40:55.974Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:40:55.974Z - info: Current opened pages, from most-to-least recent:
+2024-10-19T07:40:55.974Z - info: 1. schedule/week10/project
+2024-10-19T07:40:57.082Z - info: Rebuilding 1 pages
+2024-10-19T07:40:57.806Z - info: Site data built
+2024-10-19T07:40:57.806Z - info: Pages rebuilt
+2024-10-19T07:40:57.806Z - info: Website regeneration complete! Total build time: 0.725s
+2024-10-19T07:41:10.620Z - info: [15:41:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyTpTasks-fragment.md
+2024-10-19T07:41:10.621Z - info: Synchronizing opened pages list before reload
+2024-10-19T07:41:10.621Z - info: Current opened pages, from most-to-least recent:
+2024-10-19T07:41:10.621Z - info: 1. schedule/week10/project
+2024-10-19T07:41:11.728Z - info: Rebuilding 1 pages
+2024-10-19T07:41:12.443Z - info: Site data built
+2024-10-19T07:41:12.443Z - info: Pages rebuilt
+2024-10-19T07:41:12.443Z - info: Website regeneration complete! Total build time: 0.715s
+2024-10-19T07:42:04.349Z - info: Website generation started at 15:42:03
+2024-10-19T07:42:04.620Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-10-19T07:42:04.620Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-10-19T07:42:04.640Z - info: Building assets...

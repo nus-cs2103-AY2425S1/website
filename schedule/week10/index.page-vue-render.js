@@ -32,7 +32,7 @@ with(this){return _c('span',{staticClass:"badge bg-danger  font-weight-normal"},
 with(this){return _c('p',[_c('strong',[_v("tP:")]),_v(" "),_c('span',{staticClass:"border rounded text-success border-success pe-1 ps-1"},[_c('span',{staticClass:"fas fa-tag",attrs:{"aria-hidden":"true"}}),_v(" "),_c('strong',[_v("v1.4")])])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Do a postmortem of the previous iteration")])])}
+with(this){return _c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Do a postmortem of the previous iteration")]),_v(" "),_c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" before the tutorial")])])])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Plan the alpha version ("),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.4")]),_v(")")])])}
@@ -44,12 +44,12 @@ with(this){return _c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-
 with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Smoke-test CATcher")])}
 },function anonymous(
 ) {
-with(this){return _c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" COMPULSORY")])])}
+with(this){return _c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" [COMPULSORY] Fri, Oct 25th 16:00")])])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Start updating UML diagrams in the DG")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 18 Oct 2024, 19:48:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 19 Oct 2024, 15:42:05 GMT+8]")])])])}
 }];
   

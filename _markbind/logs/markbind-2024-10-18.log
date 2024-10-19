@@ -294,3 +294,31 @@ Caused by: java.io.IOException: error=2, No such file or directory
 2024-10-18T11:30:26.432Z - info: Press CTRL+C to stop ...
 2024-10-18T11:48:23.084Z - info: Website generation started at 19:48:22
 2024-10-18T11:48:23.260Z - info: Building assets...
+2024-10-18T11:48:23.475Z - info: Assets built
+2024-10-18T11:48:23.476Z - info: Generating pages...
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.916Z - debug:  
+2024-10-18T11:48:29.917Z - debug:  
+2024-10-18T11:48:30.619Z - debug:  
+2024-10-18T11:48:37.738Z - debug:  
+2024-10-18T11:49:18.399Z - debug:  
+2024-10-18T11:49:30.470Z - debug:  
+2024-10-18T11:49:30.604Z - debug:  
+2024-10-18T11:49:36.161Z - info: Pages built
+2024-10-18T11:49:36.227Z - info: Site data built
+2024-10-18T11:49:36.227Z - info: Website generation complete! Total build time: 73.421s
+2024-10-18T11:49:36.227Z - info: Build success!
+2024-10-18T11:50:03.012Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
