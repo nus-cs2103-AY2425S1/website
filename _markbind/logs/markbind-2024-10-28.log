@@ -487,3 +487,101 @@ Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/
 2024-10-28T12:33:24.542Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
 2024-10-28T12:33:24.542Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
 2024-10-28T12:33:24.561Z - info: Building assets...
+2024-10-28T12:33:25.861Z - info: Assets built
+2024-10-28T12:33:25.861Z - info: Generating pages...
+2024-10-28T12:33:32.107Z - debug:  
+2024-10-28T12:33:32.107Z - debug: 2024-10-28 20:33:27.906 java[62358:7632459] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 20:33:27.906 java[62358:7632459] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T12:33:32.107Z - debug:  
+2024-10-28T12:33:32.107Z - debug:  
+2024-10-28T12:33:32.107Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug: 2024-10-28 20:33:29.793 java[62397:7632764] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 20:33:29.793 java[62397:7632764] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.373Z - debug:  
+2024-10-28T12:33:32.901Z - debug: 2024-10-28 20:33:32.438 java[62426:7633438] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 20:33:32.438 java[62426:7633438] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T12:33:40.126Z - debug: 2024-10-28 20:33:39.766 java[62441:7633694] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 20:33:39.766 java[62441:7633694] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T12:34:17.234Z - debug: 2024-10-28 20:34:16.873 java[62470:7634451] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 20:34:16.873 java[62470:7634451] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T12:34:28.167Z - debug: 2024-10-28 20:34:27.767 java[62485:7635041] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 20:34:27.767 java[62485:7635041] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T12:34:28.590Z - debug:  
+2024-10-28T12:34:34.136Z - info: Pages built
+2024-10-28T12:34:34.204Z - info: Site data built
+2024-10-28T12:34:34.204Z - info: Website generation complete! Total build time: 70.696s
+2024-10-28T12:34:34.204Z - info: Build success!
+2024-10-28T12:34:55.363Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-10-28T14:54:31.668Z - info: Website generation (lazy) started at 22:54:30
+2024-10-28T14:54:32.004Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-10-28T14:54:32.005Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-10-28T14:54:32.023Z - info: Building assets...
+2024-10-28T14:54:33.333Z - info: Assets built
+2024-10-28T14:54:33.333Z - info: Generating landing page...
+2024-10-28T14:54:33.771Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-10-28T14:54:33.834Z - info: Site data built
+2024-10-28T14:54:33.834Z - info: Website generation (lazy) complete! Total build time: 3.097s
+2024-10-28T14:54:33.844Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2024-10-28T14:54:33.844Z - info: Press CTRL+C to stop ...
+2024-10-28T14:54:37.537Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week11/project as some of its dependencies were changed since the last visit
+2024-10-28T14:54:38.503Z - info: Site data built
+2024-10-28T14:54:38.503Z - info: Lazy website regeneration complete! Total build time: 0.967s
+2024-10-28T14:57:57.163Z - info: [22:57:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-28T14:57:57.164Z - info: Synchronizing opened pages list before reload
+2024-10-28T14:57:57.164Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T14:57:57.164Z - info: 1. schedule/week11/project
+2024-10-28T14:57:58.172Z - info: Rebuilding 1 pages
+2024-10-28T14:57:59.216Z - info: Site data built
+2024-10-28T14:57:59.216Z - info: Pages rebuilt
+2024-10-28T14:57:59.216Z - info: Website regeneration complete! Total build time: 1.048s
+2024-10-28T14:58:31.091Z - info: [22:58:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-28T14:58:31.092Z - info: Synchronizing opened pages list before reload
+2024-10-28T14:58:31.092Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T14:58:31.092Z - info: 1. schedule/week11/project
+2024-10-28T14:58:32.096Z - info: Rebuilding 1 pages
+2024-10-28T14:58:33.145Z - info: Site data built
+2024-10-28T14:58:33.145Z - info: Pages rebuilt
+2024-10-28T14:58:33.145Z - info: Website regeneration complete! Total build time: 1.051s
+2024-10-28T15:03:41.958Z - info: [23:03:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-28T15:03:41.958Z - info: Synchronizing opened pages list before reload
+2024-10-28T15:03:41.959Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T15:03:41.959Z - info: 1. schedule/week11/project
+2024-10-28T15:03:42.976Z - info: Rebuilding 1 pages
+2024-10-28T15:03:44.000Z - info: Site data built
+2024-10-28T15:03:44.000Z - info: Pages rebuilt
+2024-10-28T15:03:44.000Z - info: Website regeneration complete! Total build time: 1.026s
+2024-10-28T15:04:05.885Z - info: [23:04:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-28T15:04:05.885Z - info: Synchronizing opened pages list before reload
+2024-10-28T15:04:05.886Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T15:04:05.886Z - info: 1. schedule/week11/project
+2024-10-28T15:04:06.901Z - info: Rebuilding 1 pages
+2024-10-28T15:04:07.914Z - info: Site data built
+2024-10-28T15:04:07.915Z - info: Pages rebuilt
+2024-10-28T15:04:07.915Z - info: Website regeneration complete! Total build time: 1.016s
+2024-10-28T15:05:13.904Z - info: [23:05:13] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2024-10-28T15:05:13.904Z - info: Synchronizing opened pages list before reload
+2024-10-28T15:05:13.905Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T15:05:13.905Z - info: 1. schedule/week11/project
+2024-10-28T15:05:14.922Z - info: Rebuilding 1 pages
+2024-10-28T15:05:15.925Z - info: Site data built
+2024-10-28T15:05:15.925Z - info: Pages rebuilt
+2024-10-28T15:05:15.926Z - info: Website regeneration complete! Total build time: 1.006s
+2024-10-28T15:05:52.535Z - info: Website generation started at 23:05:51
+2024-10-28T15:05:52.730Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-10-28T15:05:52.730Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-10-28T15:05:52.749Z - info: Building assets...
