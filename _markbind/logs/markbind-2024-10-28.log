@@ -303,3 +303,187 @@
 2024-10-28T10:40:14.666Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
 2024-10-28T10:40:14.666Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
 2024-10-28T10:40:14.686Z - info: Building assets...
+2024-10-28T10:40:15.982Z - info: Assets built
+2024-10-28T10:40:15.983Z - info: Generating pages...
+2024-10-28T10:40:21.337Z - debug:  
+2024-10-28T10:40:21.338Z - debug: 2024-10-28 18:40:17.712 java[60373:7524632] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 18:40:17.712 java[60373:7524632] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug:  
+2024-10-28T10:40:21.338Z - debug: 2024-10-28 18:40:18.860 java[60406:7524934] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 18:40:18.860 java[60406:7524934] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T10:40:21.402Z - debug:  
+2024-10-28T10:40:21.402Z - debug:  
+2024-10-28T10:40:22.008Z - debug: 2024-10-28 18:40:21.635 java[60432:7525598] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 18:40:21.635 java[60432:7525598] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T10:40:29.262Z - debug: 2024-10-28 18:40:28.888 java[60451:7525882] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 18:40:28.888 java[60451:7525882] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T10:41:08.104Z - debug: 2024-10-28 18:41:06.007 java[60479:7526753] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 18:41:06.007 java[60479:7526753] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T10:41:16.973Z - debug: 2024-10-28 18:41:16.291 java[60490:7527026] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-28 18:41:16.291 java[60490:7527026] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-28T10:41:17.054Z - debug:  
+2024-10-28T10:41:22.645Z - info: Pages built
+2024-10-28T10:41:22.710Z - info: Site data built
+2024-10-28T10:41:22.710Z - info: Website generation complete! Total build time: 69.121s
+2024-10-28T10:41:22.710Z - info: Build success!
+2024-10-28T10:41:44.743Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-10-28T11:27:15.475Z - info: Website generation (lazy) started at 19:27:14
+2024-10-28T11:27:15.767Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-10-28T11:27:15.767Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-10-28T11:27:15.786Z - info: Building assets...
+2024-10-28T11:27:17.129Z - info: Assets built
+2024-10-28T11:27:17.129Z - info: Generating landing page...
+2024-10-28T11:27:17.562Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-10-28T11:27:17.626Z - info: Site data built
+2024-10-28T11:27:17.627Z - info: Website generation (lazy) complete! Total build time: 3.084s
+2024-10-28T11:27:17.636Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2024-10-28T11:27:17.636Z - info: Press CTRL+C to stop ...
+2024-10-28T11:27:27.181Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week11/tutorial as some of its dependencies were changed since the last visit
+2024-10-28T11:27:27.337Z - info: Site data built
+2024-10-28T11:27:27.337Z - info: Lazy website regeneration complete! Total build time: 0.156s
+2024-10-28T11:27:30.282Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index as some of its dependencies were changed since the last visit
+2024-10-28T11:27:30.421Z - info: Site data built
+2024-10-28T11:27:30.422Z - info: Lazy website regeneration complete! Total build time: 0.141s
+2024-10-28T11:27:42.389Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables as some of its dependencies were changed since the last visit
+2024-10-28T11:27:42.624Z - info: Site data built
+2024-10-28T11:27:42.624Z - info: Lazy website regeneration complete! Total build time: 0.235s
+2024-10-28T11:29:41.345Z - info: [19:29:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T11:29:41.346Z - info: Synchronizing opened pages list before reload
+2024-10-28T11:29:41.347Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T11:29:41.347Z - info: 1. admin/tp-deliverables
+2024-10-28T11:29:42.358Z - info: Rebuilding 1 pages
+2024-10-28T11:29:42.604Z - info: Site data built
+2024-10-28T11:29:42.605Z - info: Pages rebuilt
+2024-10-28T11:29:42.605Z - info: Website regeneration complete! Total build time: 0.249s
+2024-10-28T11:33:05.823Z - info: [19:33:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T11:33:05.824Z - info: Synchronizing opened pages list before reload
+2024-10-28T11:33:05.824Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T11:33:05.824Z - info: 1. admin/tp-deliverables
+2024-10-28T11:33:06.837Z - info: Rebuilding 1 pages
+2024-10-28T11:33:07.095Z - info: Site data built
+2024-10-28T11:33:07.095Z - info: Pages rebuilt
+2024-10-28T11:33:07.095Z - info: Website regeneration complete! Total build time: 0.26s
+2024-10-28T11:33:15.360Z - info: [19:33:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T11:33:15.361Z - info: Synchronizing opened pages list before reload
+2024-10-28T11:33:15.361Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T11:33:15.361Z - info: 1. admin/tp-deliverables
+2024-10-28T11:33:16.365Z - info: Rebuilding 1 pages
+2024-10-28T11:33:16.617Z - info: Site data built
+2024-10-28T11:33:16.617Z - info: Pages rebuilt
+2024-10-28T11:33:16.617Z - info: Website regeneration complete! Total build time: 0.254s
+2024-10-28T11:34:08.129Z - info: [19:34:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T11:34:08.130Z - info: Synchronizing opened pages list before reload
+2024-10-28T11:34:08.130Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T11:34:08.130Z - info: 1. admin/tp-deliverables
+2024-10-28T11:34:09.139Z - info: Rebuilding 1 pages
+2024-10-28T11:34:09.376Z - info: Site data built
+2024-10-28T11:34:09.376Z - info: Pages rebuilt
+2024-10-28T11:34:09.376Z - info: Website regeneration complete! Total build time: 0.24s
+2024-10-28T11:34:27.122Z - info: [19:34:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T11:34:27.122Z - info: Synchronizing opened pages list before reload
+2024-10-28T11:34:27.122Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T11:34:27.122Z - info: 1. admin/tp-deliverables
+2024-10-28T11:34:28.135Z - info: Rebuilding 1 pages
+2024-10-28T11:34:28.377Z - info: Site data built
+2024-10-28T11:34:28.377Z - info: Pages rebuilt
+2024-10-28T11:34:28.377Z - info: Website regeneration complete! Total build time: 0.244s
+2024-10-28T11:35:00.564Z - info: [19:35:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T11:35:00.564Z - info: Synchronizing opened pages list before reload
+2024-10-28T11:35:00.564Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T11:35:00.564Z - info: 1. admin/tp-deliverables
+2024-10-28T11:35:01.579Z - info: Rebuilding 1 pages
+2024-10-28T11:35:01.819Z - info: Site data built
+2024-10-28T11:35:01.819Z - info: Pages rebuilt
+2024-10-28T11:35:01.819Z - info: Website regeneration complete! Total build time: 0.241s
+2024-10-28T12:10:45.646Z - info: [20:10:45] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+2024-10-28T12:10:45.647Z - info: Synchronizing opened pages list before reload
+2024-10-28T12:10:45.648Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T12:10:45.648Z - info: 1. admin/tp-deliverables
+2024-10-28T12:10:46.667Z - info: Rebuilding 1 pages
+2024-10-28T12:10:46.908Z - info: Site data built
+2024-10-28T12:10:46.908Z - info: Pages rebuilt
+2024-10-28T12:10:46.908Z - info: Website regeneration complete! Total build time: 0.245s
+2024-10-28T12:31:34.758Z - info: [20:31:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T12:31:34.760Z - info: Synchronizing opened pages list before reload
+2024-10-28T12:31:34.760Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T12:31:34.760Z - info: 1. admin/tp-deliverables
+2024-10-28T12:31:35.779Z - info: Rebuilding 1 pages
+2024-10-28T12:31:35.904Z - error:  Error: No such segment '#faq--Q' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+2024-10-28T12:31:35.910Z - error:  Error: No such segment '#faq--A' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+2024-10-28T12:31:36.037Z - info: Site data built
+2024-10-28T12:31:36.037Z - info: Pages rebuilt
+2024-10-28T12:31:36.037Z - info: Website regeneration complete! Total build time: 0.261s
+2024-10-28T12:31:47.416Z - info: [20:31:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-deliverables-dg-fragment.md
+2024-10-28T12:31:47.416Z - info: Synchronizing opened pages list before reload
+2024-10-28T12:31:47.416Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T12:31:47.416Z - info: 1. admin/tp-deliverables
+2024-10-28T12:31:48.428Z - info: Rebuilding 1 pages
+2024-10-28T12:31:48.642Z - info: Site data built
+2024-10-28T12:31:48.642Z - info: Pages rebuilt
+2024-10-28T12:31:48.642Z - info: Website regeneration complete! Total build time: 0.215s
+2024-10-28T12:32:42.727Z - info: [20:32:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixC-faq.md
+2024-10-28T12:32:42.727Z - info: Synchronizing opened pages list before reload
+2024-10-28T12:32:42.727Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T12:32:42.727Z - info: 1. admin/tp-deliverables
+2024-10-28T12:32:42.728Z - info: [20:32:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+2024-10-28T12:32:42.728Z - info: Synchronizing opened pages list before reload
+2024-10-28T12:32:42.729Z - info: Current opened pages, from most-to-least recent:
+2024-10-28T12:32:42.729Z - info: 1. admin/tp-deliverables
+2024-10-28T12:32:43.747Z - info: Rebuilding 1 pages
+2024-10-28T12:32:44.006Z - info: Site data built
+2024-10-28T12:32:44.006Z - info: Pages rebuilt
+2024-10-28T12:32:44.006Z - info: Website regeneration complete! Total build time: 0.26s
+2024-10-28T12:33:24.280Z - info: Website generation started at 20:33:23
+2024-10-28T12:33:24.542Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-10-28T12:33:24.542Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-10-28T12:33:24.561Z - info: Building assets...
