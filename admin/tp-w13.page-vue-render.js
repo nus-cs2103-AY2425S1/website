@@ -74,7 +74,7 @@ with(this){return _c('ul',{staticStyle:{"list-style-type":"none","padding-inline
 with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Prepare for the practical exam")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("After reading the above 2, we "),_c('mark',[_v("strongly recommend you read ahead the info given in the item "),_c('span',{staticClass:"badge rounded-pill bg-secondary p-1"},[_v("6")]),_v(" below")]),_v(" as well, to know in advance what will happen during the PE itself.")])])}
+with(this){return _c('ul',[_c('li',[_v("After reading the above 2, we "),_c('mark',[_v("strongly recommend you read ahead the info given in the item "),_c('span',{staticClass:"badge rounded-pill bg-secondary p-1"},[_v("5")]),_v(" below")]),_v(" as well, to know in advance what will happen during the PE itself.")])])}
 },function anonymous(
 ) {
 with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Ensure the code is RepoSense-compatible")])}
@@ -107,6 +107,6 @@ with(this){return _c('div',[_c('ul',[_c('li',[_v("In the very unlikely event tha
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-w12.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP Week 12: Extra week for v1.5")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-deliverables.html"}},[_c('span',[_v("tP: Deliverables "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 13:21:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 18:55:08 GMT+8]")])])])}
 }];
   
