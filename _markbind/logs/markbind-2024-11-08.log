@@ -279,3 +279,74 @@
 2024-11-08T15:18:18.512Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
 2024-11-08T15:18:18.512Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
 2024-11-08T15:18:18.531Z - info: Building assets...
+2024-11-08T15:18:19.908Z - info: Assets built
+2024-11-08T15:18:19.908Z - info: Generating pages...
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug: 2024-11-08 23:18:21.689 java[72099:1580348] +[IMKClient subclass]: chose IMKClient_Modern
+2024-11-08 23:18:21.689 java[72099:1580348] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.927Z - debug:  
+2024-11-08T15:18:24.928Z - debug:  
+2024-11-08T15:18:24.928Z - debug:  
+2024-11-08T15:18:24.928Z - debug:  
+2024-11-08T15:18:24.928Z - debug:  
+2024-11-08T15:18:24.928Z - debug: 2024-11-08 23:18:22.588 java[72134:1580628] +[IMKClient subclass]: chose IMKClient_Modern
+2024-11-08 23:18:22.588 java[72134:1580628] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2024-11-08T15:18:25.613Z - debug: 2024-11-08 23:18:25.234 java[72164:1581412] +[IMKClient subclass]: chose IMKClient_Modern
+2024-11-08 23:18:25.234 java[72164:1581412] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2024-11-08T15:18:33.763Z - debug: 2024-11-08 23:18:33.348 java[72199:1582001] +[IMKClient subclass]: chose IMKClient_Modern
+2024-11-08 23:18:33.348 java[72199:1582001] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2024-11-08T15:19:12.195Z - debug: 2024-11-08 23:19:11.851 java[72274:1583543] +[IMKClient subclass]: chose IMKClient_Modern
+2024-11-08 23:19:11.851 java[72274:1583543] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2024-11-08T15:19:24.911Z - debug:  
+2024-11-08T15:19:24.939Z - debug:  
+2024-11-08T15:19:30.813Z - info: Pages built
+2024-11-08T15:19:30.884Z - info: Site data built
+2024-11-08T15:19:30.884Z - info: Website generation complete! Total build time: 73.44s
+2024-11-08T15:19:30.884Z - info: Build success!
+2024-11-08T15:19:53.117Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-11-08T15:37:53.491Z - info: Website generation (lazy) started at 23:37:52
+2024-11-08T15:37:53.758Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-11-08T15:37:53.758Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-11-08T15:37:53.777Z - info: Building assets...
+2024-11-08T15:37:55.157Z - info: Assets built
+2024-11-08T15:37:55.157Z - info: Generating landing page...
+2024-11-08T15:37:55.595Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-08T15:37:55.662Z - info: Site data built
+2024-11-08T15:37:55.662Z - info: Website generation (lazy) complete! Total build time: 3.096s
+2024-11-08T15:37:55.671Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2024-11-08T15:37:55.671Z - info: Press CTRL+C to stop ...
+2024-11-08T15:39:22.302Z - info: Website generation (lazy) started at 23:39:21
+2024-11-08T15:39:22.506Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-11-08T15:39:22.507Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-11-08T15:39:22.525Z - info: Building assets...
+2024-11-08T15:39:24.262Z - info: Assets built
+2024-11-08T15:39:24.263Z - info: Generating landing page...
+2024-11-08T15:39:24.899Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-08T15:39:24.961Z - info: Site data built
+2024-11-08T15:39:24.961Z - info: Website generation (lazy) complete! Total build time: 3.425s
+2024-11-08T15:39:24.967Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2024-11-08T15:39:24.967Z - info: Press CTRL+C to stop ...
+2024-11-08T15:47:43.213Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe as some of its dependencies were changed since the last visit
+2024-11-08T15:47:43.707Z - info: Site data built
+2024-11-08T15:47:43.707Z - info: Lazy website regeneration complete! Total build time: 0.495s
+2024-11-08T15:54:49.528Z - info: [23:54:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-grading-bugs-fragment.md
+2024-11-08T15:54:49.529Z - info: Synchronizing opened pages list before reload
+2024-11-08T15:54:49.530Z - info: Current opened pages, from most-to-least recent:
+2024-11-08T15:54:49.533Z - info: 1. admin/tp-pe
+2024-11-08T15:54:50.545Z - info: Rebuilding 1 pages
+2024-11-08T15:54:50.999Z - info: Site data built
+2024-11-08T15:54:50.999Z - info: Pages rebuilt
+2024-11-08T15:54:50.999Z - info: Website regeneration complete! Total build time: 0.459s
