@@ -1,0 +1,18 @@
+2024-11-23T11:30:10.031Z - info: Website generation (lazy) started at 19:30:08
+2024-11-23T11:30:10.368Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-11-23T11:30:10.368Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-11-23T11:30:10.387Z - info: Building assets...
+2024-11-23T11:30:11.733Z - info: Assets built
+2024-11-23T11:30:11.733Z - info: Generating landing page...
+2024-11-23T11:30:12.160Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-23T11:30:12.232Z - info: Site data built
+2024-11-23T11:30:12.232Z - info: Website generation (lazy) complete! Total build time: 3.24s
+2024-11-23T11:30:12.243Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2024-11-23T11:30:12.243Z - info: Press CTRL+C to stop ...
+2024-11-23T11:30:17.241Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams as some of its dependencies were changed since the last visit
+2024-11-23T11:30:17.408Z - info: Site data built
+2024-11-23T11:30:17.408Z - info: Lazy website regeneration complete! Total build time: 0.167s
+2024-11-23T15:14:54.020Z - info: Website generation started at 23:14:53
+2024-11-23T15:14:54.320Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
+2024-11-23T15:14:54.321Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
+2024-11-23T15:14:54.340Z - info: Building assets...
